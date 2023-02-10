@@ -1,7 +1,7 @@
 baseURL: "icbn.bunnieabc.com"
 languageCode: en-us
 title: ICBN
-theme: Newsroom
+theme: newsroom
 
 menu:
   main:
