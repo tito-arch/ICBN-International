@@ -2,7 +2,7 @@
 author = "Alex M.M"
 categories = "Beginner's guide"
 date = 2023-02-11T10:40:28Z
-description = "n recent years, there has been a growing trend in the world of boxing toward multi-fight deals. Instead of signing one-off deals for individual fights"
+description = "In recent years, there has been a growing trend in the world of boxing toward multi-fight deals. Instead of signing one-off deals for individual fights"
 tags = ["Misfits", "Genesis Post "]
 title = "MULTI FIGHT DEAL MISFITS & KINGPYN."
 [cover]
