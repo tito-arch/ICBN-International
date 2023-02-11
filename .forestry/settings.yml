@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "/mods"
+admin_path: static/mods
 webhook_url: 
 sections:
 - type: directory
