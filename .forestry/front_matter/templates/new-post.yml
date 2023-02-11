@@ -47,12 +47,11 @@ fields:
   config:
     required: true
     options:
-    - Artificial Intelligence & Machine Learning
-    - App Updates
-    - Computer Science
-    - Blockchain & Web3
-    - Device Reviews
-    - Emerging Issues & Trends
+    - Breaking News
+    - Fight News
+    - Upcoming Events
+    - Fighter Profiles
+    - Beginner's guide
     source:
       type: simple
       section: 
@@ -81,7 +80,7 @@ fields:
     description: Describe the <strong>source</strong> of the photo eg. <br>(<em>image
       sourced from</em> source.unsplash.com/random)
   description: This section is <strong>mandatory</strong> to enhance the <strong><em>User
-    Experience  </em></strong>~<strong><em>CTO</em></strong>
+    Experience </em></strong>
 - type: list
   name: tags
   label: tags
