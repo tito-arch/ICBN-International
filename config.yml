@@ -1,17 +1,50 @@
-baseURL: "icbn.netlify.app"
+---
+baseURL: "v1.icbn.bunnieabc.git"
 languageCode: en-us
+timeZone: Africa/Nairobi
 title: ICBN
-theme: newsroom
+theme: PaperMod
+defaultTheme: auto
+googleAnalytics: ""
+params:
+  homeInfoParams:
+    Title: Yowzha!
+    Content: Don't memorize I need you back.
+
+    
+Params:
+  ShowReadingTime: true
+  linkFullImages: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  showShareButtons: true
+  ShowPostNavLinks: true
+  
+  #ShowToc: true
+  
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/bunniestore.ke/"
+    - name: github
+      url: "https://github.com/tito-arch"
+    - name: linkedin
+      url: "https://www.linkedin.com/company/bunnie-abc/"
+
+ 
 
 menu:
   main:
-  - identifier: categories
-    name: Categories
-    url: /categories/
-    weight: 10
-  - identifier: tags
-    name: Tags
-    url: /tags/
-    weight: 20
-  - identifier: archives
-    name: Archives
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+---
