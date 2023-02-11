@@ -42,6 +42,18 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
+          <a href="https://icbnews.net" target="_blank" style="display: inline-block; padding: 2px;">
+            <img src="images/icbn.jpeg" width="60px" style="border-radius: 50%; animation: spin 3s linear infinite; border: 2px solid white; border-left-color: red; border-right-color: black;">
+          </a>
+          
+          <style>
+            @keyframes spin {
+              0% { transform: rotate(0deg); }
+              100% { transform: rotate(360deg); }
+            }
+          </style>
+          
+          
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">

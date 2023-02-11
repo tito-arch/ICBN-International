@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ICBN</title>
-    <link>https://v1.icbn.bunnieabc.com/</link>
-    <description>Recent content on ICBN</description>
+    <title>Posts on ICBN</title>
+    <link>https://v1.icbn.bunnieabc.com/posts/</link>
+    <description>Recent content in Posts on ICBN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2023 10:40:28 +0000</lastBuildDate><atom:link href="https://v1.icbn.bunnieabc.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2023 10:40:28 +0000</lastBuildDate><atom:link href="https://v1.icbn.bunnieabc.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MULTI FIGHT DEAL MISFITS &amp; KINGPYN.</title>
       <link>https://v1.icbn.bunnieabc.com/posts/multi-fight-deal-misfits-kingpyn/</link>
@@ -15,7 +15,6 @@
       <guid>https://v1.icbn.bunnieabc.com/posts/multi-fight-deal-misfits-kingpyn/</guid>
       <description>In recent years, there has been a growing trend in the world of boxing toward multi-fight deals. Instead of signing one-off deals for individual fights</description>
     </item>
-    
     
   </channel>
 </rss>

@@ -6,10 +6,7 @@ title: ICBN
 theme: PaperMod
 defaultTheme: auto
 googleAnalytics: ""
-params:
-  homeInfoParams:
-    Title: Yowzha!
-    Content: Don't memorize I need you back.
+
 
     
 Params:
