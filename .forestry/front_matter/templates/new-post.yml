@@ -92,3 +92,5 @@ fields:
     min: 2
     max: 5
   description: Add the most relevant tags to help us manage how content is displayed.
+pages:
+- content/posts/multi-fight-deal-misfits-kingpyn.md
