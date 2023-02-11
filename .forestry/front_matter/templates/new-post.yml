@@ -20,14 +20,12 @@ fields:
   default: now
 - name: author
   type: select
-  default: BABC
+  default: ICBN
   config:
     required: true
     options:
-    - M.I.Titus
-    - R.Kipchirchir
-    - BABC
-    - P.Gitau
+    - Alex M.M
+    - ICBN
     source:
       type: simple
       section: 
