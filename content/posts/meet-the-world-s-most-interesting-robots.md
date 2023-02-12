@@ -37,6 +37,6 @@ image = ""
 | ANTHONY TAYLOR | 3-3-1 | LHW | 16 | 3 | 6 | 7 | 5 | 37 |
 
 
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
+| NAME   | RECORD     | WEIGHT   | OPP. QUALITY | STAR POWER | ABILITY | MAX POINTS |
+| --------- | -------- | ------ | --------- | -------- | -------- | ----------|
 | _italics_ | **bold** | `code` |
