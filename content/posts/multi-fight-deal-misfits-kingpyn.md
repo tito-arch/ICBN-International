@@ -11,13 +11,10 @@ caption = ""
 image = "/uploads/dbe31380-539c-4c8c-a975-64ed63c2cef5.jpeg"
 
 +++
-MULTI FIGHT DEAL MISFITS & KINGPYN.
-
 In recent years, there has been a growing trend in the world of boxing toward multi-fight deals. Instead of signing one-off deals for individual fights, many boxers are now opting to sign multi-fight contracts that secure their future in the sport and provide them with a steady stream of income.
 
 One of the biggest benefits of multi-fight deals is that they offer boxers greater stability and security. With a multi-fight contract in place, a boxer knows that they will have a set number of fights lined up in the coming months and years, and can plan their training and preparation accordingly.
 
-  
 Another benefit of multi-fight deals is that they offer boxers a chance to build their reputation and brand. By signing a multi-fight contract, a boxer can build momentum and establish themselves as a force to be reckoned with in the sport. This can lead to increased exposure, higher paydays, and a greater chance of landing a major title fight in the future.
 
 Multi-fight deals also benefit the promoter, who can plan their events and schedule with greater certainty. This allows them to build a stable and consistent roster of fighters, and to invest in the development and training of new talent.
