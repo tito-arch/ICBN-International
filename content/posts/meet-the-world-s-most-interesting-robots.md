@@ -35,3 +35,8 @@ image = ""
 | DEJI | 1-4-0 | LHW | 13 | 1 | 8 | 10 | 5 | 37 |
 
 | ANTHONY TAYLOR | 3-3-1 | LHW | 16 | 3 | 6 | 7 | 5 | 37 |
+
+
+| Italics   | Bold     | Code   |
+| --------- | -------- | ------ |
+| _italics_ | **bold** | `code` |
