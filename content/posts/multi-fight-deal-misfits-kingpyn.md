@@ -25,43 +25,27 @@ Here are some of the fighters with multi fight deals with either promotions.
 
 **Misfits boxing**
 
-• Faze Temper  ![](/uploads/293718ec-e16f-415a-a8b6-87a266353a99.jpeg)
+![](/uploads/whatsapp-image-2023-02-13-at-4-04-17-pm-1.jpeg)
+
+• Faze Temper
 
 • Bdave
 
-![](/uploads/2aecc664-5bb4-472d-aa05-6a6a2d66a60a.jpeg)
-
 • Swarmz
-
-![](/uploads/2cee728b-4713-4822-a868-9a50672eefb0.jpeg)
 
 • Minx
 
-![](/uploads/76f8fd30-7dab-4a53-a9d8-7082cdd981fa.jpeg)
-
 • Astrid Wett
-
-![](/uploads/b18ab46d-a81f-46bc-a335-3bd454cff22e.jpeg)
 
 • Fangs
 
-![](/uploads/deb53f09-aff5-419e-a175-57fc3e8bc468.jpeg)
-
 • Salt papi
-
-![](/uploads/fa77890d-bfe7-4077-ba99-2e547c7ed870.jpeg)
 
 • King Kenny
 
-![](/uploads/feb57696-80cb-4d1c-a1a9-7c43bef0fe2b.jpeg)
-
 • Anthony Taylor
 
-![](/uploads/95ec4e2b-b959-40cd-bce9-12af26fdec7a.jpeg)
-
 • Luis Pineda
-
-![](/uploads/9bda248e-2d96-4d8b-9f20-c5edf9d73600.jpeg)
 
 **Kingpyn boxing**
 
