@@ -23,11 +23,11 @@ The trend toward multi-fight deals has also been witnessed in cross-over boxing 
 
 Here are some of the fighters with multi fight deals with either promotions.
 
-**Misfits boxing Kingpyn boxing**
+**Misfits boxing                     Kingpyn boxing**
 
-• Faze Temper Elle brooke (loaned from misfits)
+• Faze Temper                        Elle brooke (loaned from misfits)
 
-• Bdave Lil Jarvis
+• Bdave                                  Lil Jarvis
 
 • Swarmz
 
