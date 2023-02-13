@@ -10,6 +10,9 @@ title = "Top Men's Pound-for-Pound Boxing Rankings: Across Weight Classes."
 alt = "Top Men's Pound-for-Pound Boxing Rankings: Across Weight Classes."
 caption = ""
 image = "/uploads/dbe31380-539c-4c8c-a975-64ed63c2cef5.jpeg"
+[menu.main]
+name = "RANKINGS"
+weight = 4
 
 +++
 | **WEIGHT** 	|          NAME          	|   **RECORD**   	| **ABILITY** 	| **RECORD** 	| **OPP QUALITY** 	| **STAR POWER** 	| **ACTIVITY** 	| TOTAL SCORE 	|

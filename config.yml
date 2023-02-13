@@ -1,14 +1,11 @@
 ---
-baseURL: "https://icbnews.net"
+baseURL: https://icbnews.net
 languageCode: en-us
 timeZone: Africa/Nairobi
 title: ICBN
 theme: PaperMod
 defaultTheme: auto
-googleAnalytics: ""
-
-
-    
+googleAnalytics: ''
 Params:
   ShowReadingTime: true
   linkFullImages: true
@@ -16,32 +13,24 @@ Params:
   ShowCodeCopyButtons: true
   showShareButtons: true
   ShowPostNavLinks: true
-  
-  #ShowToc: true
-  
-
   socialIcons:
-    - name: instagram
-      url: "https://www.instagram.com/bunniestore.ke/"
-    - name: github
-      url: "https://github.com/tito-arch"
-    - name: linkedin
-      url: "https://www.linkedin.com/company/bunnie-abc/"
-
- 
-
+  - name: instagram
+    url: https://www.instagram.com/bunniestore.ke/
+  - name: github
+    url: https://github.com/tito-arch
+  - name: linkedin
+    url: https://www.linkedin.com/company/bunnie-abc/
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
----
+  - url: "/archives/"
+    name: Archives
+    weight: 3
+    identifier: archives
+  - url: "/tags/"
+    name: Tags
+    weight: 2
+    identifier: tags
+  - url: "/categories/"
+    name: Categories
+    weight: 1
+    identifier: categories
