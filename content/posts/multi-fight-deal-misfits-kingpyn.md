@@ -25,13 +25,19 @@ Here are some of the fighters with multi fight deals with either promotions.
 
 **Misfits boxing**                     
 
-• Faze Temper                        
+• Faze Temper  ![](/uploads/293718ec-e16f-415a-a8b6-87a266353a99.jpeg)                      
 
-• Bdave                                 
+• Bdave 
+
+ ![](/uploads/2aecc664-5bb4-472d-aa05-6a6a2d66a60a.jpeg)                            
 
 • Swarmz
 
+![](/uploads/2cee728b-4713-4822-a868-9a50672eefb0.jpeg)
+
 • Minx
+
+![](/uploads/76f8fd30-7dab-4a53-a9d8-7082cdd981fa.jpeg)
 
 • Astrid Wett
 
