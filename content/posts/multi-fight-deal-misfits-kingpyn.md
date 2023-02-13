@@ -23,37 +23,29 @@ The trend toward multi-fight deals has also been witnessed in cross-over boxing 
 
 Here are some of the fighters with multi fight deals with either promotions.
 
-**Misfits boxing**
+## Misfits boxing
 
 ![](/uploads/whatsapp-image-2023-02-13-at-4-04-17-pm-1.jpeg)
 
-• Faze Temper
+| **Faze Temper** |      **Fangs**     |
 
-• Bdave
+|:---------------:|:------------------:|
 
-• Swarmz
+|    **Bdave**    |    **Salt papi**   |
 
-• Minx
+|    **Swarmz**   |   **King Kenny**   |
 
-• Astrid Wett
+|     **Minx**    | **Anthony Taylor** |
 
-• Fangs
+| **Astrid Wett** |   **Luis Pineda**  |
 
-• Salt papi
+## Kingpyn boxing
 
-• King Kenny
-
-• Anthony Taylor
-
-• Luis Pineda
-
-**Kingpyn boxing**
-
-Elle brooke (loaned from misfits)
+**Elle brooke (loaned from misfits)**
 
 ![](/uploads/c79a24a4-ea1b-4872-a82e-44bbc27e5fad.jpeg)
 
-Lil Jarvis
+**Lil Jarvis**
 
 ![](/uploads/45d28740-a0a4-4f72-b15e-642f69baf97f.jpeg)
 
