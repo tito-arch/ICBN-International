@@ -27,18 +27,16 @@ Here are some of the fighters with multi fight deals with either promotions.
 
 ![](/uploads/whatsapp-image-2023-02-13-at-4-04-17-pm-1.jpeg)
 
-| **Faze Temper** 	|      **Fangs**     	|
-|:---------------:	|:------------------:	|
-|    **Bdave**    	|    **Salt papi**   	|
-|    **Swarmz**   	|   **King Kenny**   	|
-|     **Minx**    	| **Anthony Taylor** 	|
-| **Astrid Wett** 	|   **Luis Pineda**  	|
+| Faze Temper | Fangs |
+| :---: | :---: |
+| Bdave | Salt papi |
+| Swarmz | King Kenny |
+| Minx | Anthony Taylor |
+| Astrid Wett | Luis Pineda |
 
 ## Kingpyn boxing
 
 **Elle brooke (loaned from misfits)**
-
-![](/uploads/c79a24a4-ea1b-4872-a82e-44bbc27e5fad.jpeg)
 
 **Lil Jarvis**
 
