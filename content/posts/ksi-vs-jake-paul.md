@@ -9,7 +9,7 @@ title = "KSI VS JAKE PAUL"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/whatsapp-image-2023-02-13-at-10-00-54-pm-1.jpeg"
 
 +++
 Fans of crossover boxing are eagerly awaiting the highly-anticipated match between YouTube stars KSI and Jake Paul, set to take place at the end of the year in Cardiff, Wales. The bout, which will be held at one of the UK's premier sporting venues, promises to be one of the biggest events in the sport in 2023 and has fans around the world counting down the days.
