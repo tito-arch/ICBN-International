@@ -14,7 +14,7 @@ name = "RANKINGS"
 weight = 4
 
 +++
-Get an in-depth analysis of the top men's P4P boxers and their performance in various weight classes. Rankings based on records, abilities & activity.
+This post provides a comprehensive look at the best men's pound-for-pound boxers, evaluating their records, abilities, and activity across different weight classes.
 
 | WEIGHT | NAME | RECORD | ABILITY | RECORD | OPP QUALITY | STAR POWER | ACTIVITY | TOTAL SCORE |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
