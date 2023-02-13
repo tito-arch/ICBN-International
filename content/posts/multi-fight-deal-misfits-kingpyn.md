@@ -41,15 +41,27 @@ Here are some of the fighters with multi fight deals with either promotions.
 
 • Astrid Wett
 
+![](/uploads/b18ab46d-a81f-46bc-a335-3bd454cff22e.jpeg)
+
 • Fangs
+
+![](/uploads/deb53f09-aff5-419e-a175-57fc3e8bc468.jpeg)
 
 • Salt papi
 
+![](/uploads/fa77890d-bfe7-4077-ba99-2e547c7ed870.jpeg)
+
 • King Kenny
+
+![](/uploads/feb57696-80cb-4d1c-a1a9-7c43bef0fe2b.jpeg)
 
 • Anthony Taylor
 
+![](/uploads/95ec4e2b-b959-40cd-bce9-12af26fdec7a.jpeg)
+
 • Luis Pineda
+
+![](/uploads/9bda248e-2d96-4d8b-9f20-c5edf9d73600.jpeg)
 
 **Kingpyn boxing**
 
