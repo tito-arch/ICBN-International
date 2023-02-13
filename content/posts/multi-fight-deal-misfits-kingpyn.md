@@ -23,11 +23,11 @@ The trend toward multi-fight deals has also been witnessed in cross-over boxing 
 
 Here are some of the fighters with multi fight deals with either promotions.
 
-**Misfits boxing                     Kingpyn boxing**
+**Misfits boxing**                     
 
-• Faze Temper                        Elle brooke (loaned from misfits)
+• Faze Temper                        
 
-• Bdave                                  Lil Jarvis
+• Bdave                                 
 
 • Swarmz
 
@@ -44,5 +44,11 @@ Here are some of the fighters with multi fight deals with either promotions.
 • Anthony Taylor
 
 • Luis Pineda
+
+**Kingpyn boxing**
+
+Elle brooke (loaned from misfits)
+
+ Lil Jarvis
 
 In conclusion, multi-fight deals in boxing is a trend that is gaining momentum and making a significant impact on the sport. By providing boxers with stability, security, and an opportunity to build their reputation, these contracts are helping to shape the future of the sport and ensuring that boxing remains a popular and exciting form of entertainment for generations to come.
