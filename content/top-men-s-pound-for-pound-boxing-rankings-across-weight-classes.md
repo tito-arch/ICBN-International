@@ -14,7 +14,11 @@ name = "RANKINGS"
 weight = 4
 
 +++
-This post provides a comprehensive look at the best men's pound-for-pound boxers, evaluating their records, abilities, and activity across different weight classes.
+I.C.B.N P4P ranking promotes transparemcy by presenting a full breakdown of how a boxers position (total score) is determined.
+
+Our rankings are based on performance 100% .
+
+A win against a bad opponent holds no weight ,an impressive win against a good opponent holds a lot of weight ,a close decision win in a very even fight where both fighters put a brilliant performance,would be beneficial to both boxers.
 
 | WEIGHT | NAME | RECORD | ABILITY | RECORD | OPP QUALITY | STAR POWER | ACTIVITY | TOTAL SCORE |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
