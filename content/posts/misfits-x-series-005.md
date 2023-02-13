@@ -9,7 +9,7 @@ title = "MISFITS X SERIES 005"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/whatsapp-image-2023-02-13-at-10-24-12-pm.jpeg"
 
 +++
 The Misfits X Series 005 Boxing Event will be a night of intense action and excitement, as some of the world's top influencers will take to the ring to showcase their skills and determination. The event, which will be held at a packed arena in Telford ,United Kingdom, This will be a celebration of the power and precision of the sweet science of boxing, and fans will be treated to a night of thrilling action and for the first time a tag team boxing match.
