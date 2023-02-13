@@ -8,7 +8,7 @@ title = "Top Men's Pound-for-Pound Boxing Rankings: Across Weight Classes."
 [cover]
 alt = "Top Men's Pound-for-Pound Boxing Rankings: Across Weight Classes."
 caption = ""
-image = "/uploads/dbe31380-539c-4c8c-a975-64ed63c2cef5.jpeg"
+image = "/uploads/whatsapp-image-2023-02-10-at-1-13-35-pm-1.jpeg"
 [menu.main]
 name = "RANKINGS"
 weight = 4
