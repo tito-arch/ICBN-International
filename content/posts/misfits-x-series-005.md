@@ -3,7 +3,6 @@ author = "Alex M.M"
 categories = "Upcoming Events"
 date = 2023-02-13T19:49:37Z
 description = "Misfits X Series 005 Boxing Event: A Night of Excitement and Intensity"
-draft = true
 tags = ["", ""]
 title = "MISFITS X SERIES 005"
 [cover]
