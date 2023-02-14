@@ -9,7 +9,7 @@ title = "You Tube boxing history"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/img_20230214_203110.jpg"
 
 +++
 BEGINNING OF YOUTUBE BOXING
