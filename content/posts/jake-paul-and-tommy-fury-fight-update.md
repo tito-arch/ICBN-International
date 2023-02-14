@@ -3,7 +3,6 @@ author = "Alex M.M"
 categories = "Upcoming Events"
 date = 2023-02-14T08:34:12Z
 description = "Jake Paul and Tommy Fury Set to Square Off in Diriyah, Saudi Arabia"
-draft = true
 tags = ["", ""]
 title = "Jake Paul and Tommy Fury fight update"
 [cover]
