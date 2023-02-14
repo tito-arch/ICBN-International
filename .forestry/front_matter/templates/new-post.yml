@@ -90,6 +90,7 @@ fields:
     max: 5
   description: Add the most relevant tags to help us manage how content is displayed.
 pages:
+- content/posts/jake-paul-and-tommy-fury-fight-update.md
 - content/posts/ksi-vs-jake-paul.md
 - content/posts/misfits-x-series-005.md
 - content/posts/multi-fight-deal-misfits-kingpyn.md
