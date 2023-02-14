@@ -11,7 +11,7 @@ caption = ""
 image = "/uploads/img_20230214_203110.jpg"
 
 +++
-    <h2>BEGINNING OF YOUTUBE BOXING<h2>
+BEGINNING OF YOUTUBE BOXING
 
 It all started on the 1st of August 2017 when youtubers Joe Weller and Theo Baker uploaded a video fighting each other on joe’s youtube channel. It was purely made for entertainment .During the promotion of the fight popular youtuber KSI requested to fight the winner
 
