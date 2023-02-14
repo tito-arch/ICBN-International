@@ -12,7 +12,7 @@ caption = ""
 image = ""
 
 +++
-Crossover boxing refers to instances where athletes from other sports have entered the boxing ring for a professional fight. This phenomenon has a long and storied history, dating back to the early days of modern boxing.
+Crossover boxing refers to instances where athletes from other sports have entered the boxing ring for a professional fight. This phenomenon has a long and storied history, dating back to the early days of modern boxing. After the intergration of athletes from other sports into You Tube boxing it had to transition to cross-over boxing.
 
 One of the most famous examples of a crossover athlete in boxing was James J. Corbett, a former champion heavyweight boxer who also had a successful stage career in vaudeville. More recently, in the late 20th and early 21st centuries, several high-profile crossover fights have taken place, featuring athletes such as former MMA star Tyron Woodley, former professional wrestler Bobby Fish, and former mixed martial arts champion Anderson Silva.
 
