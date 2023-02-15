@@ -42,9 +42,9 @@ Salt Papi                           January 24th 2023
 
 ## MOST VALUABLE PROMOTIONS
 
-Most valuable Promotions was founded by youtube sensation Jake Paul with his adviser Nikisa Bidarian in 2021.
+Most valuable Promotions was founded by you tube sensation Jake Paul with his adviser Nikisa Bidarian in 2021.
 
-They signed Amanda Serrano to a promotional deal in September 2021 and recently signed Shadasia “THE SWEET TERMINAROR”Green on the 25th of January.
+They signed Amanda Serrano to a promotional deal in September 2021 and recently signed Shadasia “THE SWEET TERMINATOR”Green on the 25th of January.
 
 On the 5th of February 2023 Most Valuable Promotions put out a tweet on their official twitter page, saying that their main goal is building the future of professional boxing
 
