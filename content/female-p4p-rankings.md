@@ -9,7 +9,7 @@ title = " Top female Pound-for-Pound Rankings in You Tube boxing"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = "/uploads/deb53f09-aff5-419e-a175-57fc3e8bc468.jpeg"
+image = "/uploads/img_20230215_095321.jpg"
 
 +++
 I.C.B.N P4P ranking promotes transparency by presenting a full breakdown of how a boxers position (total score) is determined.
