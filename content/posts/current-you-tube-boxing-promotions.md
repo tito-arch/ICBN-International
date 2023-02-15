@@ -99,16 +99,16 @@ The organization has not yet officially announced any signings or events. It is 
 
 ## TRUE POWER BOXING
 
-True Power Boxing is an influencer boxing promotion founded in January 2023 by Callum Vella . In the course of their existence, they signed some fighters
+True Power Boxing is an influencer boxing promotion founded in January 2023 by _Callum Vella_ . In the course of their existence, they signed some fighters
 
 FIGHTERS&DATE OF SIGNING
 
-Lewis Smale-15th February 2023
+_Lewis Smale_-15th February 2023
 
-Brandon Jones-11th February 2023
+_Brandon Jones_-11th February 2023
 
-Asaad Asaad-11th February 2023
+_Asaad Asaad_-11th February 2023
 
-Ryan Clarke-11th February 2023
+_Ryan Clarke_-11th February 2023
 
-True Power Promotions announced that they had partnered with Dubby Energy on the 9th of February 2023 via their official twitter page. They are hoping to get three fighters in the next Small Creator Boxing (S.C.B) event, with one already confirmed. Their first event is rumoured to be in the summer.
+True Power Promotions announced that they had partnered with _Dubby Energy_ on the 9th of February 2023 via their official twitter page. They are hoping to get three fighters in the next _Small Creator Boxing_ (S.C.B) event, with one already confirmed. Their first event is rumoured to be in the summer.
