@@ -33,13 +33,13 @@ FIGHTERS            &               DATE OF SIGNING
 
 As the promotion progressed some fighters became co-owners as shown below
 
-CO-OWNER                      DATE OF ANNOUNCEMENT
+CO-OWNER            &          DATE OF ANNOUNCEMENT
 
-_Jidion_                                June 6th 2022
+_Jidion_                   -             June 6th 2022
 
-_Sam Hyde_                         June 29th 2022
+_Sam Hyde_           -              June 29th 2022
 
-_Salt Papi_                           January 24th 2023
+_Salt Papi_             -              January 24th 2023
 
 ## MOST VALUABLE PROMOTIONS
 
