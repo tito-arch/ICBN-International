@@ -78,6 +78,8 @@ S.C.B is still an active force in the crossover boxing scene.
 
 ## SOCIAL GLOVES ENTERTAINMENT
 
+![](/uploads/img_20230215_175520.jpg)
+
 Social gloves was conceived and developed by executive producer _Paul Cazer_ ,he was also the digital executive who masterminded _Logan_ vs _KSI_ 1.
 
 The owner of the platform however is _Austin Mcbroom._
