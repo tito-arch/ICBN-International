@@ -33,7 +33,7 @@ FIGHTERS            &               DATE OF SIGNING
 
 As the promotion progressed some fighters became co-owners as shown below
 
-CO-OWNER            &          DATE OF ANNOUNCEMENT
+CO-OWNER         &          DATE OF ANNOUNCEMENT
 
 _Jidion_                   -             June 6th 2022
 
