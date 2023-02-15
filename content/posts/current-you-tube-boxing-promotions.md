@@ -58,7 +58,7 @@ Their first event (X Series 001) was on August 27th 2022. Misfits boxing also pa
 
 Misfits is great to watch and has some of the most entertaining events in cross-over boxing at the moment.
 
-SMALL CREATOR BOXING
+## SMALL CREATOR BOXING
 
 Small Creator Boxing was founded by Connor Knowles on August 2022. The main role of this organization is to give small creators a platform to box and show their skills.
 
