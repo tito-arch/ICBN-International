@@ -9,9 +9,6 @@ title = "Top Men's Pound-for-Pound Boxing Rankings: Across Weight Classes."
 alt = "Top Men's Pound-for-Pound Boxing Rankings: Across Weight Classes."
 caption = ""
 image = "/uploads/whatsapp-image-2023-02-10-at-1-13-35-pm-1.jpeg"
-[menu.main]
-name = "Rankings"
-weight = 4
 
 +++
 I.C.B.N P4P ranking promotes transparemcy by presenting a full breakdown of how a boxers position (total score) is determined.

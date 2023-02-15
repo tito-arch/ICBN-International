@@ -22,6 +22,9 @@ Params:
     url: https://www.linkedin.com/company/bunnie-abc/
 menu:
   main:
+  - url: https://icbnews.net/tags/rankings/
+    name: Rankings
+    weight: 4
   - url: "/archives/"
     name: Archives
     weight: 3
