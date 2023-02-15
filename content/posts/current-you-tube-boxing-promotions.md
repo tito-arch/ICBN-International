@@ -20,15 +20,15 @@ FIGHTERS                           DATE OF SIGNING
 
 \*_Jidion_                                March 31st 2022
 
-\*Salt Papi                            April 3rd 2022
+\*_Salt Papi_                            April 3rd 2022
 
-\*Sam Hyde                         April 11th 2022
+\*_Sam Hyde_                         April 11th 2022
 
-\*Ishowspeed                      April 12th 2022
+\*_Ishowspeed_                      April 12th 2022
 
-\*Faze sensei                       April 18th 2022
+\*_Faze sensei_                       April 18th 2022
 
-\*Cia Sunday                       May 10th 2022
+\*_Cia Sunday_                       May 10th 2022
 
 As the promotion progressed some fighters became co-owners as shown below
 
