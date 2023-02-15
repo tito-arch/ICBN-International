@@ -24,7 +24,7 @@ menu:
   main:
   - url: https://icbnews.net/tags/rankings/
     name: Rankings
-    weight: 4
+    weight: 5
   - url: "/archives/"
     name: Archives
     weight: 3

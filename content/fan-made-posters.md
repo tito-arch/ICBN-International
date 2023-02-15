@@ -10,6 +10,9 @@ title = "Fan Made Posters"
 alt = "bunnie abc"
 caption = ""
 image = "/uploads/dbe31380-539c-4c8c-a975-64ed63c2cef5.jpeg"
+[menu.main]
+name = "Fan Made"
+weight = 4
 
 +++
 ## When Fans Go Out Of Their Way.....
