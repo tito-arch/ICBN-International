@@ -92,6 +92,8 @@ Social gloves have been inactive since their second event
 
 ## GOAT PROMOTIONS
 
+![](/uploads/img_20230215_175448.jpg)
+
 GOAT promotions was founded by _Minikon,Austin sprinz_ and _Fox The G_ on January 2023.
 
 The organisation has not yet officially announced any signings or events.It is still a young promotion and the future is definitely looking bright.
