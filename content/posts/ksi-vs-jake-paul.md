@@ -3,7 +3,7 @@ author = "Alex M.M"
 categories = "Upcoming Events"
 date = 2023-02-13T18:54:36Z
 description = "KSI vs Jake Paul Set to Light Up Cardiff at the End of the Year"
-tags = ["", ""]
+tags = ["Misfits", "Upcoming fights"]
 title = "KSI VS JAKE PAUL"
 [cover]
 alt = "bunnie abc"
