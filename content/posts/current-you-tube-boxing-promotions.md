@@ -99,6 +99,8 @@ The organization has not yet officially announced any signings or events. It is 
 
 ## TRUE POWER BOXING
 
+![](/uploads/img_20230215_211500.jpg)
+
 True Power Boxing is an influencer boxing promotion founded in January 2023 by _Callum Vella_ . In the course of their existence, they signed some fighters
 
 FIGHTERS&DATE OF SIGNING
