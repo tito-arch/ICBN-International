@@ -86,7 +86,7 @@ The owner of the platform however is _Austin Mcbroom._
 
 After the first event social gloves got into some controversy and had some fighters and workers they were never paid.
 
-Even after the controvercies from the first event social gloves still did a second event which had a low turn out .
+Even after the controversies from the first event social gloves still did a second event which had a low turn out .
 
 Social gloves have been inactive since their second event
 
