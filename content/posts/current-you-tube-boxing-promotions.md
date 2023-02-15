@@ -96,3 +96,19 @@ Social gloves have been inactive since their second event
 GOAT promotions was founded by _Minikon, Austin sprinz,_ and _Fox The G_ on January 2023.
 
 The organization has not yet officially announced any signings or events. It is still a young promotion and the future is definitely looking bright.
+
+## TRUE POWER BOXING
+
+True Power Boxing is an influencer boxing promotion founded in January 2023 by Callum Vella . In the course of their existence, they signed some fighters
+
+FIGHTERS&DATE OF SIGNING
+
+Lewis Smale-15th February 2023
+
+Brandon Jones-11th February 2023
+
+Asaad Asaad-11th February 2023
+
+Ryan Clarke-11th February 2023
+
+True Power Promotions announced that they had partnered with Dubby Energy on the 9th of February 2023 via their official twitter page. They are hoping to get three fighters in the next Small Creator Boxing (S.C.B) event, with one already confirmed. Their first event is rumoured to be in the summer.
