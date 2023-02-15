@@ -17,19 +17,19 @@ image = "/uploads/img_20230215_180950.jpg"
 
 Happy Punch Promotions is an influencer boxing promotional company founded by a creator named _Purzuh_ before it was taken over by _Keemstar_ and _FouseyTUBE_ in August 11th 2021. Since its inauguration, the Happy Punch social media accounts have been used to share influencer boxing news. Throughout 2022, the company signed a number of influencers as fighters, including _Ishowspeed_ , _Jidion_ , _Saltpapi_ and _Sam hyde_
 
-FIGHTERS                           DATE OF SIGNING
+FIGHTERS            &               DATE OF SIGNING
 
-\*_Jidion_                                March 31st 2022
+\*_Jidion_           -                     March 31st 2022
 
-\*_Salt Papi_                            April 3rd 2022
+\*_Salt Papi_          -                  April 3rd 2022
 
-\*_Sam Hyde_                         April 11th 2022
+\*_Sam Hyde_         -                April 11th 2022
 
-\*_Ishowspeed_                      April 12th 2022
+\*_Ishowspeed_        -              April 12th 2022
 
-\*_Faze sensei_                       April 18th 2022
+\*_Faze sensei_         -              April 18th 2022
 
-\*_Cia Sunday_                       May 10th 2022
+\*_Cia Sunday_          -             May 10th 2022
 
 As the promotion progressed some fighters became co-owners as shown below
 
