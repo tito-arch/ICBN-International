@@ -44,6 +44,8 @@ _Salt Papi_                           January 24th 2023
 
 ## MOST VALUABLE PROMOTIONS
 
+![](/uploads/img_20230215_175334.jpg)
+
 Most valuable Promotions was founded by you tube sensation _Jake Pau_l with his adviser _Nikisa Bidarian_ in 2021.
 
 They signed _Amanda Serrano_ to a promotional deal in September 2021 and recently signed _Shadasia_ “THE SWEET TERMINATOR”_Green_ on the 25th of January.
