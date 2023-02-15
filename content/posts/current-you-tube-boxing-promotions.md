@@ -60,7 +60,7 @@ Misfits is great to watch and has some of the most entertaining events in cross-
 
 ## SMALL CREATOR BOXING
 
-Small Creator Boxing was founded by Connor Knowles on August 2022. The main role of this organization is to give small creators a platform to box and show their skills.
+Small Creator Boxing was founded by _Connor Knowles_ on August 2022. The main role of this organization is to give small creators a platform to box and show their skills.
 
 They had their first ever event on the 8th of January 2023 which was essentially done for charity.
 
