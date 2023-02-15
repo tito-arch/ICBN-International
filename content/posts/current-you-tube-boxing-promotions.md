@@ -50,7 +50,7 @@ On the 5th of February 2023 Most Valuable Promotions put out a tweet on their of
 
 ## MISFITS BOXING
 
-Misfits was founded by brothers Kalle and Nisse Sauerland of Wassermn boxing ,KSI and Mams Taylor.Their headquarters are in London ,England.
+Misfits was founded by brothers _Kalle_ and _Nisse Sauerland_ of Wassermn boxing ,_KSI_ and _Mams Taylor_.Their headquarters are in London ,England.
 
 Misfits announced on the 10th of January 2023 that they had secured a five year broadcasting deal wih DAZN to broadcast their live events.
 
