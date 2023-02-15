@@ -70,9 +70,9 @@ S.C.B is still an active force in the crossover boxing scene.
 
 ## SOCIAL GLOVES ENTERTAINMENT
 
-Social gloves was conceived and developed by executive producer Paul Cazer ,he was also the digital executive who masterminded Logan vs KSI 1.
+Social gloves was conceived and developed by executive producer _Paul Cazer_ ,he was also the digital executive who masterminded _Logan_ vs _KSI_ 1.
 
-The owner of the platform however is Austin Mcbroom.
+The owner of the platform however is _Austin Mcbroom._
 
 After the first event social gloves got into some controversy and had some fighters and workers they were never paid.
 
@@ -82,6 +82,6 @@ Social gloves have been inactive since their second event
 
 ## GOAT PROMOTIONS
 
-GOAT promotions was founded by Minikon,Austin sprinz and Fox The G on January 2023.
+GOAT promotions was founded by _Minikon,Austin sprinz_ and _Fox The G_ on January 2023.
 
 The organisation has not yet officially announced any signings or events.It is still a young promotion and the future is definitely looking bright.
