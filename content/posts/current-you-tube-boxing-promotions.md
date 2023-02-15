@@ -14,11 +14,11 @@ image = "/uploads/img_20230215_180950.jpg"
 +++
 ## HAPPY PUNCH PROMOTION.
 
-Happy Punch Promotions is an influencer boxing promotional company founded by a creator named Purzuh before it was taken over by Keemstar and FouseyTUBE in August 11th 2021. Since its inauguration, the Happy Punch social media accounts have been used to share influencer boxing news. Throughout 2022, the company signed a number of influencers as fighters, including Ishowspeed , Jidion , Saltpapi and Sam hyde
+Happy Punch Promotions is an influencer boxing promotional company founded by a creator named _Purzuh_ before it was taken over by _Keemstar_ and _FouseyTUBE_ in August 11th 2021. Since its inauguration, the Happy Punch social media accounts have been used to share influencer boxing news. Throughout 2022, the company signed a number of influencers as fighters, including _Ishowspeed_ , _Jidion_ , _Saltpapi_ and _Sam hyde_
 
 FIGHTERS                           DATE OF SIGNING
 
-\*Jidion                                March 31st 2022
+\*_Jidion_                                March 31st 2022
 
 \*Salt Papi                            April 3rd 2022
 
