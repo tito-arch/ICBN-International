@@ -40,7 +40,7 @@ Sam Hyde                         June 29th 2022
 
 Salt Papi                           January 24th 2023
 
-MOST VALUABLE PROMOTIONS
+## MOST VALUABLE PROMOTIONS
 
 Most valuable Promotions was founded by youtube sensation Jake Paul with his adviser Nikisa Bidarian in 2021.
 
