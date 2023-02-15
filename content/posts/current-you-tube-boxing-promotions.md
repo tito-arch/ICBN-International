@@ -80,7 +80,7 @@ Even after the controvercies from the first event social gloves still did a seco
 
 Social gloves have been inactive since their second event
 
-GOAT PROMOTIONS
+## GOAT PROMOTIONS
 
 GOAT promotions was founded by Minikon,Austin sprinz and Fox The G on January 2023.
 
