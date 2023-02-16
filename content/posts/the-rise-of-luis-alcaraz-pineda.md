@@ -22,8 +22,6 @@ _Luis Alcaraz Pineda_ first appeared in the crossover boxing scene as a replacem
 
 After his spectacular performance against _Bdave_, It was announced _Pineda_ will team up with his former opponent _Bdave_ in a tag team match in **Misfits X Series 005**. The tag team match will happen in _Telford International Centre_, _United Kingdom_ on the 4th of March 2023. Currently, Pineda has signed a multi-fight deal with Misfits boxing so we can expect to see more of him in the future.
 
-Platform: [username](https://icbnews.net/mods/#/pages/content-posts-the-rise-of-luis-alcaraz-pineda-md/)
-
 In conclusion, _Pineda_’s journey in crossover boxing has simply been phenomenal and has definitely taught many that life works in mysterious ways and we might not know what it has in store for us.
 
 Instagram: [https://www.instagram.com/alcaraz5631/?next=%2F](https://www.instagram.com/alcaraz5631/?next=%2F "https://www.instagram.com/alcaraz5631/?next=%2F")
