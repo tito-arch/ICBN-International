@@ -26,6 +26,6 @@ Platform: [username](https://icbnews.net/mods/#/pages/content-posts-the-rise-of-
 
 In conclusion, _Pineda_’s journey in crossover boxing has simply been phenomenal and has definitely taught many that life works in mysterious ways and we might not know what it has in store for us.
 
-Instagram: 
+Instagram: [https://www.instagram.com/alcaraz5631/?next=%2F](https://www.instagram.com/alcaraz5631/?next=%2F "https://www.instagram.com/alcaraz5631/?next=%2F")
 
 Twitter: [https://twitter.com/RealLuisPineda?s=20](https://twitter.com/RealLuisPineda?s=20 "https://twitter.com/RealLuisPineda?s=20")
