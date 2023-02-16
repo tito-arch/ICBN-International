@@ -3,7 +3,6 @@ author = "Alex M.M"
 categories = "Fight News"
 date = 2023-02-15T07:38:52Z
 description = "posters our fans think we are missing out"
-draft = true
 tags = ["Fans", "Concept posters"]
 title = "Fan Made Posters"
 [cover]
