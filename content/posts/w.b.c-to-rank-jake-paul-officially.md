@@ -3,7 +3,6 @@ author = "Alex M.M"
 categories = "Breaking News"
 date = 2023-02-16T05:55:17Z
 description = "W.B.C to officially rank Jake Paul in the cruiserweight division if he wins his latest fight"
-draft = true
 tags = ["Most Valuable Promotion", "Upcoming fights"]
 title = "W.B.C to rank Jake Paul officially"
 [cover]
