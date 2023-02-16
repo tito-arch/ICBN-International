@@ -7,9 +7,9 @@ draft = true
 tags = ["Fans", "Concept posters"]
 title = "Fan Made Posters"
 [cover]
-alt = "bunnie abc"
+alt = "ICBN"
 caption = ""
-image = "/uploads/dbe31380-539c-4c8c-a975-64ed63c2cef5.jpeg"
+image = "/uploads/whatsapp-image-2023-02-16-at-7-33-38-am.jpeg"
 [menu.main]
 name = "Fan Made"
 weight = 4
