@@ -25,3 +25,7 @@ After his spectacular performance against _Bdave_, It was announced _Pineda_ wil
 Platform: [username](https://icbnews.net/mods/#/pages/content-posts-the-rise-of-luis-alcaraz-pineda-md/)
 
 In conclusion, _Pineda_’s journey in crossover boxing has simply been phenomenal and has definitely taught many that life works in mysterious ways and we might not know what it has in store for us.
+
+Instagram: 
+
+Twitter:
