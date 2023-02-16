@@ -16,7 +16,7 @@ _Luis Alcaraz Pineda_ is a 6 foot 3 inches light heavy-weight boxer from Mexico.
 
 ![](/uploads/ksi-fights-pineda.jpg)
 
-_Luis Alcaraz Pineda_ first appeared in the crossover boxing scene as a replacement of the replacement fighter (professional boxer _Nikolov_) who was caught up in some controversy. Pineda fought on 27th of August 2022 when he took on popular you tuber _KSI_, but unfortunately lost by way of knockout. Due to his likeable character and notable catch-phrase _(VAMOOS)_ fans wanted to see more of _Pineda_. After many requests to have pineda back on misfits boxing, he was brought in as a mysterious fighter on the 14th of January 2023 to fight popular you tuber _Bdave_.His entrance was certainly dramatic and his performance in the ring did not disappoint either. He won via Unanimous Decision from the judges.
+_Luis Alcaraz Pineda_ first appeared in the crossover boxing scene as a replacement of the replacement fighter (professional boxer _Nikolov_) who was caught up in some controversy. Pineda fought on 27th of August 2022 when he took on popular you tuber _KSI_, but unfortunately lost by way of knockout. Due to his likeable character and notable catch-phrase _(VAMOOS)_ fans wanted to see more of _Pineda_. After many requests to have pineda back on misfits boxing, he was brought in as a mysterious fighter on the 14th of January 2023 to fight popular you tuber _Bdave_. His entrance was certainly dramatic and his performance in the ring did not disappoint either. He won via Unanimous Decision from the judges.
 
 ![](/uploads/bdave-vs-pineda.jpg)
 
