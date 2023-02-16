@@ -9,7 +9,7 @@ title = "The rise of Luis Alcaraz Pineda"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/pineda-glasses.jpeg"
 
 +++
 _Luis Alcaraz Pineda_ is a 6 foot 3 inches light heavy-weight boxer from Mexico. He was born in 1999 in _Sonora, Mexico_. He made his professional boxing debut on the 28th of April 2017. Pineda is said to have had 50 amateur boxing bouts, however his boxing record is recorded at 2 wins and 7 losses **(2-7-0)** as of the writing of this article.
