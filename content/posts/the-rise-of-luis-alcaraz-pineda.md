@@ -26,4 +26,4 @@ In conclusion, _Pineda_’s journey in crossover boxing has simply been phenomen
 
 Instagram: [https://www.instagram.com/alcaraz5631/?next=%2F](https://www.instagram.com/alcaraz5631/?next=%2F "https://www.instagram.com/alcaraz5631/?next=%2F")
 
-Twitter: [https://twitter.com/RealLuisPineda?s=20](https://twitter.com/RealLuisPineda?s=20 "https://twitter.com/RealLuisPineda?s=20")
+Twitter: [https://twitter.com/RealLuisPineda?s=20](https://twitter.com/RealLuisPineda?s=20 "RealLuisPineda")
