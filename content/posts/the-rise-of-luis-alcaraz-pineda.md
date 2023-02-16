@@ -28,4 +28,4 @@ In conclusion, _Pineda_’s journey in crossover boxing has simply been phenomen
 
 Instagram: 
 
-Twitter:
+Twitter:[https://twitter.com/RealLuisPineda?s=20](https://twitter.com/RealLuisPineda?s=20 "https://twitter.com/RealLuisPineda?s=20")
