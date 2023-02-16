@@ -9,7 +9,7 @@ title = "W.B.C to rank Jake Paul officially"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/img_20230216_083752.jpg"
 
 +++
 In the world of boxing, Jake Paul has become somewhat of a polarizing figure. Some see him as a self-promoting YouTube personality trying to make a quick buck in the sport, while others see him as a legitimate fighter with real potential. Regardless of where you fall on that spectrum, one thing is for sure: Jake Paul is making waves in the boxing world, and his upcoming fight against Tommy Fury on February 26th, 2023 in Diriyah, Saudi Arabia has the potential to propel him even further.
