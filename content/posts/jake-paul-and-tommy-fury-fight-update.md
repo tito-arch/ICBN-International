@@ -23,6 +23,8 @@ The animosity between the two fighters has been building for months, with both m
 
 As the fight draws closer, both fighters will be stepping up their training regimes and preparing to give it their all in the ring. Fans around the world will be eagerly awaiting the outcome of this clash of personalities, with the winner likely to catapult themselves to even greater fame and success in the world of boxing.
 
-![](/uploads/img_20230214_104526.jpg)
+On 16th of February one half of the card and the co-main event was released. This definitely added alot of hype and excitement to the card.
+
+![](/uploads/jake-paul-full-card.jpg)
 
 Overall, the Jake Paul vs Tommy Fury fight promises to be a must-watch event for boxing fans, and the confirmed undercards featuring Muhsin Cason vs Jafarov and Adam Saleh will only add to the excitement. So mark your calendars and get ready for an unforgettable night of boxing in Diriyah, Saudi Arabia.
