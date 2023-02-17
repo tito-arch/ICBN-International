@@ -1,0 +1,37 @@
++++
+author = "Alex M.M"
+categories = "Breaking News"
+date = 2023-02-17T10:30:20Z
+description = "The recent drama between K.S.I and Andrew Tate explained extensively and the origin of it all"
+draft = true
+tags = ["", ""]
+title = "THE DRAMA SURROUNDING KSI AND ANDREW TATE"
+[cover]
+alt = "bunnie abc"
+caption = ""
+image = ""
+
++++
+To really get a good glimpse of the whole drama we must go to the beginning and explore the rise of Andrew Tate and what brought about the drama between the two individuals.
+
+WHO IS ANDREW TATE
+
+Andrew Tate was born on the 1st of December 1986 in Chicago, U.S.A but later moved to Luton with his mother and his brother Tristan Tate after their parents divorced. Andrew Tate took on the sport of kickboxing and excelled extremely well becoming a four times world champion .Andrew was first seen on mainstream media on a reality show called Big Brother. During the writing of this article Andrew Tate is worth a whopping 700 million dollars.
+
+WHO IS K.S.I
+
+Olajide Olayinka Williams Olatunji better known as K.S.I was born on the 19th of June 1993. K.S.I has built a huge audience through YouTube since 2009, with a total of 41.53 million subscribers combined. He is also a co-founder of the British YouTube group The sidemen, he is also the Chief Executive Officer (C.E.O) of Misfits boxing and co-owner of Prime energy drink, XIX Vodka and a restaurant chain known as Sides.
+
+DRAMA
+
+After the controversial rise of Andrew Tate through the popular platform TikTok due to his takes on masculinity, relationships and money. Andrew gathered a lot of hate and controversy as time went by and that’s when some allegations came to light. He was accused by popular you tuber Daz Black of grooming and using women for his personal gain, after those allegations came to light, Andrew Tate got banned on all platforms ,that is Meta,youtube and Twitter.
+
+After Andrew Tate was banned K.S.I was one of the people to speak out about the situation.K.S.I described it as deserved and he brought this to himself. K.S.I is not new to controversy so he had an idea of what he was saying and probably did not mean any harm, However Andrew Tate took that personally and after he struck a deal with popular streaming platform Rumble he decided to fire back at K.S.I. . Andrew Tate claimed K.S.I was a hypocrite and he has said worse things than Andrew ever said in his entire life. He also claimed that he would take K.S.I in a 12 round boxing match with no break.
+
+After that little internet exchange it all seemed to cool down and Andrew Tate was actually brought back to twitter after billionaire Elon Musk bought the company. It was going well for Andrew Tate until he had an argument with the 19 year old climate activist Greta Thunberg. After some back and forth with the 19 year old, Andrew Tate was arrested by the Romanian police due to some investigation about his involvement in sex trafficking and money laundering. As of the writing of this article there are no substantial evidence for him to be prosecuted. After this came to light K.S.I had to say how he felt about the whole situation and said it was a long time coming for the controversial kick boxer. The response from K.S.I prompted a lot of negative reactions from Andrew Tate fans.
+
+On the 16th of February 2023 controversial news outlet claimed to have evidence on a ban-hit put on K.S.I. They said that allegedly a close associate of Andrew Tate told his fans to put out content incriminating K.S.I. so that he can get banned on all social media platforms, but it looks like their plans have crumbled down after this got out into the light. Of course K.S.I had to respond and he tweeted (Ain’t no way laughing emoji) and of course putting up a meme about the whole situation
+
+(Image is down below)
+
+More investigation is being made currently by different entities to determine the credibility of the whole story since VICE have been known to not being a credible source. As more comes to light we will surely keep you updated.
