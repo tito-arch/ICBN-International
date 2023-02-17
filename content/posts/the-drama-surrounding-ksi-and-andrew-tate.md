@@ -34,4 +34,4 @@ On the 16th of February 2023 controversial news outlet claimed to have evidence 
 
 (Image is down below)
 
-More investigation is being made currently by different entities to determine the credibility of the whole story since VICE have been known to not being a credible source. As more comes to light we will surely keep you updated.
+More investigation is being made currently by different entities to determine the credibility of the whole story since _VICE_ have been known to not being a credible source. As more comes to light we will surely keep you updated.
