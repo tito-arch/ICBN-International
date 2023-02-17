@@ -4,7 +4,7 @@ categories = "Breaking News"
 date = 2023-02-17T10:30:20Z
 description = "The recent drama between K.S.I and Andrew Tate explained extensively and the origin of it all"
 draft = true
-tags = ["", ""]
+tags = ["Breaking news", "Drama"]
 title = "THE DRAMA SURROUNDING KSI AND ANDREW TATE"
 [cover]
 alt = "bunnie abc"
