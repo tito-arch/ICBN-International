@@ -20,7 +20,7 @@ _Andrew Tate_ was born on the 1st of December 1986 in _Chicago, U.S.A_ but later
 
 ### WHO IS K.S.I
 
-_Olajide Olayinka Williams Olatunj_i better known as K.S.I was born on the 19th of June 1993. K.S.I has built a huge audience through YouTube since 2009, with a total of 41.53 million subscribers combined. He is also a co-founder of the British YouTube group The sidemen, he is also the Chief Executive Officer (C.E.O) of Misfits boxing and co-owner of Prime energy drink, XIX Vodka and a restaurant chain known as Sides.
+_Olajide Olayinka Williams Olatunj_i better known as _K.S.I_ was born on the 19th of June 1993. _K.S.I_ has built a huge audience through YouTube since 2009, with a total of 41.53 million subscribers combined. He is also a co-founder of the British YouTube group _The sidemen_, he is also the Chief Executive Officer (C.E.O) of _Misfits boxing_ and co-owner of _Prime energy drink, XIX Vodka_ and a restaurant chain known as _Sides_.
 
 DRAMA
 
