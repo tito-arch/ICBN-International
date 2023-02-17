@@ -16,6 +16,8 @@ To really get a good glimpse of the whole drama we must go to the beginning and 
 
 ### WHO IS ANDREW TATE
 
+![](/uploads/andrew_tate_kickboxer-1.webp)
+
 _Andrew Tate_ was born on the 1st of December 1986 in _Chicago, U.S.A_ but later moved to _Luton_ with his mother and his brother _Tristan Tate_ after their parents divorced. _Andrew Tate_ took on the sport of kickboxing and excelled extremely well becoming a four times world champion. _Andrew_ was first seen on mainstream media on a reality show called Big Brother. During the writing of this article, _Andrew Tate_ is worth a whopping **700** million dollars.
 
 ### WHO IS K.S.I
