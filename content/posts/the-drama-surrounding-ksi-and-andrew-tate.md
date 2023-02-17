@@ -38,6 +38,6 @@ After that little internet exchange, it all appeared to chill and _Andrew Tate_ 
 
 On the 16th of February 2023, contentious news outlet _VICE_ proclaimed to have proof of a ban-hit put on _K.S.I_. They said that allegedly a close associate of _Andrew Tate_ told his fans to put out content incriminating _K.S.I_. so that he would get banned on all social media platforms, but it looks like their plans have crumbled down after this got out into the light. Of course _K.S.I_  had to respond and he tweeted (Ain’t no way 😂😂😂) and of course put up a meme about the whole situation.
 
-(Image is down below)
+(Image is down below)![](/uploads/twitter-ksi-meme.jpg)
 
 More investigation is being made currently by different entities to determine the credibility of the whole story since _VICE_ has been known to not be a credible source. As more comes to light we will surely keep you updated.
