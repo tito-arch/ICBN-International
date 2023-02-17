@@ -9,7 +9,7 @@ title = "THE DRAMA SURROUNDING KSI AND ANDREW TATE"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/ksi-and-andrew-tate.jpg"
 
 +++
 To really get a good glimpse of the whole drama we must go to the beginning and explore the rise of _Andrew Tate_ and what brought about the drama between the two individuals.
