@@ -28,6 +28,8 @@ _Olajide Olayinka Williams Olatunji_ better known as _K.S.I_ was born o _the 19t
 
 ### DRAMA
 
+![](/uploads/andrew-vs-ksi.jpg)
+
 Behind the contentious rise of _Andrew Tate_ via the popular platform TikTok due to his take on manliness, associations, and money. _Andrew_ gathered a lot of hate and controversy as well as love as time went by and that’s when some allegations came to light. He was blamed by popular YouTuber _Daz Black_ of grooming and using women for his intimate gain, after those allegations came to light, _Andrew Tate_ got banned on all platforms, that is _Meta, Youtube,_ and _Twitter_.
 
 After _Andrew Tate_ was banned _K.S.I_ was one of the people to speak out about the situation _K.S.I_ described it as deserved and he brought this to himself. _K.S.I_  is not new to controversy so he had an idea of what he was saying and probably did not mean any harm, However, _Andrew Tate_ took that personally and after he struck a deal with the popular streaming platform _Rumble_ he decided to fire back at _K.S.I_. . _Andrew Tate_ claimed _K.S.I_ was a hypocrite and he has said worse things than _Andrew_ ever said in his entire life. He also claimed that he would take _K.S.I_  in a 12-round boxing match with no break.
