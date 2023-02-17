@@ -12,15 +12,15 @@ caption = ""
 image = ""
 
 +++
-To really get a good glimpse of the whole drama we must go to the beginning and explore the rise of Andrew Tate and what brought about the drama between the two individuals.
+To really get a good glimpse of the whole drama we must go to the beginning and explore the rise of _Andrew Tate_ and what brought about the drama between the two individuals.
 
-WHO IS ANDREW TATE
+### WHO IS ANDREW TATE
 
-Andrew Tate was born on the 1st of December 1986 in Chicago, U.S.A but later moved to Luton with his mother and his brother Tristan Tate after their parents divorced. Andrew Tate took on the sport of kickboxing and excelled extremely well becoming a four times world champion .Andrew was first seen on mainstream media on a reality show called Big Brother. During the writing of this article Andrew Tate is worth a whopping 700 million dollars.
+_Andrew Tate_ was born on the 1st of December 1986 in _Chicago, U.S.A_ but later moved to _Luton_ with his mother and his brother _Tristan Tate_ after their parents divorced. _Andrew Tate_ took on the sport of kickboxing and excelled extremely well becoming a four times world champion ._Andrew_ was first seen on mainstream media on a reality show called Big Brother. During the writing of this article _Andrew Tate_ is worth a whopping 700 million dollars.
 
-WHO IS K.S.I
+### WHO IS K.S.I
 
-Olajide Olayinka Williams Olatunji better known as K.S.I was born on the 19th of June 1993. K.S.I has built a huge audience through YouTube since 2009, with a total of 41.53 million subscribers combined. He is also a co-founder of the British YouTube group The sidemen, he is also the Chief Executive Officer (C.E.O) of Misfits boxing and co-owner of Prime energy drink, XIX Vodka and a restaurant chain known as Sides.
+_Olajide Olayinka Williams Olatunj_i better known as K.S.I was born on the 19th of June 1993. K.S.I has built a huge audience through YouTube since 2009, with a total of 41.53 million subscribers combined. He is also a co-founder of the British YouTube group The sidemen, he is also the Chief Executive Officer (C.E.O) of Misfits boxing and co-owner of Prime energy drink, XIX Vodka and a restaurant chain known as Sides.
 
 DRAMA
 
