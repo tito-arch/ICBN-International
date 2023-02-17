@@ -24,7 +24,7 @@ _Olajide Olayinka Williams Olatunj_i better known as _K.S.I_ was born on the 19t
 
 ### DRAMA
 
-After the controversial rise of _Andrew Tate_ through the popular platform TikTok due to his takes on masculinity, relationships and money. _Andrew_ gathered a lot of hate and controversy as well as love as time went by and that’s when some allegations came to light. He was accused by popular you tuber _Daz Black_ of grooming and using women for his personal gain, after those allegations came to light, Andrew Tate got banned on all platforms ,that is Meta,youtube and Twitter.
+After the controversial rise of _Andrew Tate_ through the popular platform TikTok due to his takes on masculinity, relationships and money. _Andrew_ gathered a lot of hate and controversy as well as love as time went by and that’s when some allegations came to light. He was accused by popular you tuber _Daz Black_ of grooming and using women for his personal gain, after those allegations came to light, _Andrew Tate_ got banned on all platforms ,that is _Meta,youtube_ and _Twitter_.
 
 After Andrew Tate was banned K.S.I was one of the people to speak out about the situation.K.S.I described it as deserved and he brought this to himself. K.S.I is not new to controversy so he had an idea of what he was saying and probably did not mean any harm, However Andrew Tate took that personally and after he struck a deal with popular streaming platform Rumble he decided to fire back at K.S.I. . Andrew Tate claimed K.S.I was a hypocrite and he has said worse things than Andrew ever said in his entire life. He also claimed that he would take K.S.I in a 12 round boxing match with no break.
 
