@@ -44,7 +44,7 @@ To actually know the reason why this win was so important to Slim and his fans d
 
 On the 15th of October 2023 Slim finally met Ryan Taylor in the ring and he did not hold out. This was too personal to be lenient with Ryan Taylor Slim obviously won by unanimous decision but left Ryan Taylor battered and to some that was justice right there. Slim and Ryan are friend now as of the writing of this article.
 
-{{< youtube 5to980XceD4 >}}
+{{< youtube LslG1yY0JZY >}}
 
 Those are our best crossover boxing moments, you can also share with us your best moments in YouTube boxing through our social media handles.
 
