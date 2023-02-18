@@ -38,11 +38,11 @@ _Deen the Great_ came in as the favourite in the fight, but despite this fact pe
 
 {{< youtube uPKiCH_y4YU >}}
 
-### 5.SLIM WINS HIS FIGHT AGAINST RYAN TAYLOR
+### 5._SLIM_ WINS HIS FIGHT AGAINST _RYAN TAYLOR_
 
-To actually know the reason why this win was so important to Slim and his fans despite him being the favourite ,we have to go back to the 12th of June 2022 .On this fateful day Slim Albaher got into an altercation with popular you tuber Ryan Taylor in London which left slim having a bad eye injury. Slim explained the whole situation on YouTube and what actually transpired. Fans were outraged at Ryan Taylor for committing such an act.
+To actually know the reason why this win was so important to _Slim_ and his fans despite him being the favourite ,we have to go back to the 12th of June 2022 .On this fateful day _Slim Albaher_ got into an altercation with popular you tuber _Ryan Taylor_ in London which left slim having a bad eye injury. _Slim_ explained the whole situation on YouTube and what actually transpired. Fans were outraged at _Ryan Taylor_ for committing such an act.
 
-On the 15th of October 2023 Slim finally met Ryan Taylor in the ring and he did not hold out. This was too personal to be lenient with Ryan Taylor Slim obviously won by unanimous decision but left Ryan Taylor battered and to some that was justice right there. Slim and Ryan are friend now as of the writing of this article.
+On the 15th of October 2023 _Slim_ finally met _Ryan Taylor_ in the ring and he did not hold out. This was too personal to be lenient with _Ryan Taylor._ _Slim_ obviously won by unanimous decision but left _Ryan Taylor_ battered and to some that was justice right there. _Slim_ and _Ryan_ are friend now as of the writing of this article.
 
 {{< youtube LslG1yY0JZY >}}
 
