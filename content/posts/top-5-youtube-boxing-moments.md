@@ -4,12 +4,12 @@ categories = "Fight News"
 date = 2023-02-18T15:15:47Z
 description = "This are the top five moments in crossover boxing"
 draft = true
-tags = ["", ""]
+tags = ["You Tube boxing", "Misfits"]
 title = "TOP 5 YOUTUBE BOXING MOMENTS"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/210607-logan-mayweather-mc-1017.webp"
 
 +++
 You tube boxing has brought about a lot of good moments and some really memorable ones as well. In this article we will look at the best YouTube boxing moments ever documented.
