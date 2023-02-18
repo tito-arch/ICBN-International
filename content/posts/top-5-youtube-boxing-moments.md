@@ -47,7 +47,3 @@ On the 15th of October 2023 _Slim_ finally met _Ryan Taylor_ in the ring and he 
 {{< youtube LslG1yY0JZY >}}
 
 Those are our best crossover boxing moments, you can also share with us your best moments in YouTube boxing through our social media handles.
-
-Twitter:
-
-Instagram:
