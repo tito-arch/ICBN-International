@@ -89,7 +89,7 @@ Misfits is great to watch and has some of the most entertaining events in cross-
 
 Small Creator Boxing was founded by _Connor Knowles_ on August 2022. The main role of this organization is to give small creators a platform to box and show their skills.
 
-They had their first-ever event on the 7th of January 2023 which was essentially done for charity.Small Creator Boxing also signed intenet sensation Denis Bel Vlogs
+They had their first-ever event on the 7th of January 2023 which was essentially done for charity.Small Creator Boxing also signed intenet sensation _Denis Bel Vlogs._
 
 On the 12th of January 2023, they announced officially the split of the U.S. and the U.K. side, hereby creating Ascend boxing promotion in the process.
 
