@@ -20,9 +20,9 @@ On the 9th of November 2019 we witnessed one of the most exciting crossover boxi
 
 {{< youtube 5to980XceD4 >}}
 
-### 2.DEJI WINS HIS REDEMPTION FIGHT
+### 2._DEJI_ WINS HIS REDEMPTION FIGHT
 
-Before this fight Deji had lost three times to Jake Paul, Vinnie Hacker and Alex Wassabi. It was paramount for him to win this fight. JJ Olatunji better known as K.S.I (Deji’s bother)did not believe that Deji would actually win this fight taking into consideration he lost all his previous fights.Deji’s opponent FouseyTUBE was actually in good shape which prompted people to believe he would actually win this fight. Despite all the odds being against Deji he somehow managed to defeat fouseyTUBE through a stoppage due to his opponent having a swollen eye. This was a very emotional win for Deji, his fans and family.
+Before this fight _Deji_ had lost three times to _Jake Paul, Vinnie Hacker_ and _Alex Wassabi_. It was paramount for him to win this fight. _JJ Olatunji_ better known as _K.S.I_ (_Deji_’s bother)did not believe that _Deji_ would actually win this fight taking into consideration he lost all his previous fights._Deji_’s opponent _FouseyTUBE_ was actually in good shape which prompted people to believe he would actually win this fight. Despite all the odds being against _Deji,_ he somehow managed to defeat _fouseyTUBE_ through a stoppage due to his opponent having a swollen eye. This was a very emotional win for _Deji_, his fans and family.
 
 {{< youtube b6FCajJk52Y >}}
 
