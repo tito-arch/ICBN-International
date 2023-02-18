@@ -26,9 +26,9 @@ Before this fight _Deji_ had lost three times to _Jake Paul, Vinnie Hacker_ and 
 
 {{< youtube b6FCajJk52Y >}}
 
-### 3.THE RETURN OF PINEDA
+### 3.THE RETURN OF _PINEDA_
 
-Misfits had a brilliant idea of having a mysterious opponent in Misfits X series 004.The anticipation and excitement from the fans grew day by day and this was the perfect atmosphere for his return. Despite losing his previous fight against K.S.I the fans still loved him and requested his involvement in up-coming misfits events. When fight night arrived it was time to finally reveal the mysterious opponent. The unexpected happened, Luis Alcaraz Pineda appeared and the crowd went wild.This moment was one of the best highlights of the whole card. Luis Alcaraz Pineda did not disappoint in his performance either, he actually won his fight by unanimous decision from the judges.
+Misfits had a brilliant idea of having a mysterious opponent in **Misfits X series 004**.The anticipation and excitement from the fans grew day by day and this was the perfect atmosphere for his return. Despite losing his previous fight against _K.S.I_ the fans still loved him and requested his involvement in up-coming misfits events. When fight night arrived it was time to finally reveal the mysterious opponent. The unexpected happened, _Luis Alcaraz Pineda_ appeared and the crowd went wild.This moment was one of the best highlights of the whole card. _Luis Alcaraz Pineda_ did not disappoint in his performance either, he actually won his fight by unanimous decision from the judges.
 
 {{< youtube wz9J_0_p160 >}}
 
