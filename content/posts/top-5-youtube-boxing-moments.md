@@ -18,6 +18,8 @@ KSI WINS AGAINST LOGAN PAUL
 
 On the 9th of November 2019 we witnessed one of the most exciting crossover boxing matchs.It was held at Staples Centre in Los Angeles, California. This was actually a rematch after the two opponents (K.S.I and Logan Paul) ended up drawing in their first match. K.S.I defeated Logan Paul via split decision, with two judges scoring the match 56-55 and 57-54 in his favour. The third judge gave it in favour of Logan Paul, scoring 56-55 in his favour. This fight actually sold two million Pay-Per-Views becoming the fifth highest grossing fight in history.
 
+{{< youtube rywOYfGu4EA >}}
+
 DEJI WINS HIS REDEMPTION FIGHT
 
 Before this fight Deji had lost three times to Jake Paul, Vinnie Hacker and Alex Wassabi. It was paramount for him to win this fight. JJ Olatunji better known as K.S.I (Deji’s bother)did not believe that Deji would actually win this fight taking into consideration he lost all his previous fights.Deji’s opponent FouseyTUBE was actually in good shape which prompted people to believe he would actually win this fight. Despite all the odds being against Deji he somehow managed to defeat fouseyTUBE through a stoppage due to his opponent having a swollen eye. This was a very emotional win for Deji, his fans and family.
