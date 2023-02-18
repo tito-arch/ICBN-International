@@ -18,7 +18,7 @@ KSI WINS AGAINST LOGAN PAUL
 
 On the 9th of November 2019 we witnessed one of the most exciting crossover boxing matchs.It was held at Staples Centre in Los Angeles, California. This was actually a rematch after the two opponents (K.S.I and Logan Paul) ended up drawing in their first match. K.S.I defeated Logan Paul via split decision, with two judges scoring the match 56-55 and 57-54 in his favour. The third judge gave it in favour of Logan Paul, scoring 56-55 in his favour. This fight actually sold two million Pay-Per-Views becoming the fifth highest grossing fight in history.
 
-> <iframe width="560" height="315" src="[https://www.youtube.com/embed/5to980XceD4?start=321](https://www.youtube.com/embed/5to980XceD4?start=321 "https://www.youtube.com/embed/5to980XceD4?start=321")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[iframe>](<iframe width="560" height="315" src="https://www.youtube.com/embed/5to980XceD4?start=321" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> "KSI VS LOGAN PAUL 2")
 
 DEJI WINS HIS REDEMPTION FIGHT
 
