@@ -36,7 +36,7 @@ DEEN THE GREAT COMEBACK
 
 Deen the Great came in as the favourite in the fight, but despite this fact people still felt that there would be an upset in this fight. His opponent Walid Sharks was the opponent some fans hoped would ”humble” Deen The Great since they viewed him arrogant. During fight night walid appeared to have the upper hand, he actually knocked down Deen the Great a few times. In the last round however Deen managed to sneak in a punch that knocked Walid out. This was the most unexpected comebacks during a fight in crossover boxing. A rematch was obvious at this point and people are actually excited for this to happen in a future misfits card.
 
-{{< youtube 5to980XceD4 >}}
+{{< youtube uPKiCH_y4YU >}}
 
 SLIM WINS HIS FIGHT AGAINST RYAN TAYLOR
 
