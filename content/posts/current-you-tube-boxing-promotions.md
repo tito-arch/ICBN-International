@@ -31,6 +31,26 @@ FIGHTERS            &               DATE OF SIGNING
 
 \*_Cia Sunday_          -             May 10th, 2022
 
+**OTHER FIGHTERS SIGNED.**
+
+_Ø Overtflow_
+
+_Ø JayKindaFunny_
+
+_Ø Lauren Alexis_
+
+_Ø JMX_
+
+_Ø Hasim Rahman Jr_
+
+_Ø Astrid Wett_
+
+_Ø Anthony Taylor_
+
+_Ø NichLMAO_
+
+_Ø Brandon Buckingham_
+
 As the promotion progressed some fighters became co-owners as shown below
 
 CO-OWNER         &          DATE OF ANNOUNCEMENT
