@@ -12,7 +12,7 @@ caption = ""
 image = "/uploads/210607-logan-mayweather-mc-1017.webp"
 
 +++
-You tube boxing has brought about a lot of good moments and some really memorable ones as well. In this article we will look at the best YouTube boxing moments ever documented.
+You tube boxing has brought about a lot of good moments and some really memorable ones as well. In this article we will look at the best YouTube boxing moments ever documented.![](/uploads/youtube-vs-tiktok-fight-results-ftr_12v044w4hlqrk1aph8mq1sgjxc-png.webp)
 
 ### 1.KSI WINS AGAINST LOGAN PAUL
 
