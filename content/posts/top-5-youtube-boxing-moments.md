@@ -32,9 +32,9 @@ Misfits had a brilliant idea of having a mysterious opponent in **Misfits X seri
 
 {{< youtube wz9J_0_p160 >}}
 
-### 4.DEEN THE GREAT COMEBACK
+### 4._DEEN THE GREAT_ COMEBACK
 
-Deen the Great came in as the favourite in the fight, but despite this fact people still felt that there would be an upset in this fight. His opponent Walid Sharks was the opponent some fans hoped would ”humble” Deen The Great since they viewed him arrogant. During fight night walid appeared to have the upper hand, he actually knocked down Deen the Great a few times. In the last round however Deen managed to sneak in a punch that knocked Walid out. This was the most unexpected comebacks during a fight in crossover boxing. A rematch was obvious at this point and people are actually excited for this to happen in a future misfits card.
+_Deen the Great_ came in as the favourite in the fight, but despite this fact people still felt that there would be an upset in this fight. His opponent _Walid Sharks_ was the opponent some fans hoped would ”**humble**” _Deen The Great_ since they viewed him arrogant. During fight night, _walid_ appeared to have the upper hand, he actually knocked down _Deen the Great_ a few times. In the last round however _Deen_ managed to sneak in a punch that knocked _Walid_ out. This was the most unexpected comebacks during a fight in crossover boxing. A rematch was obvious at this point and people are actually excited for this to happen in a future misfits card.
 
 {{< youtube uPKiCH_y4YU >}}
 
