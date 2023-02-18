@@ -14,9 +14,9 @@ image = "/uploads/210607-logan-mayweather-mc-1017.webp"
 +++
 You tube boxing has brought about a lot of good moments and some really memorable ones as well. In this article we will look at the best YouTube boxing moments ever documented.![](/uploads/youtube-vs-tiktok-fight-results-ftr_12v044w4hlqrk1aph8mq1sgjxc-png.webp)
 
-### 1.KSI WINS AGAINST LOGAN PAUL
+### 1._KSI_ WINS AGAINST _LOGAN PAUL_
 
-On the 9th of November 2019 we witnessed one of the most exciting crossover boxing matchs.It was held at Staples Centre in Los Angeles, California. This was actually a rematch after the two opponents (K.S.I and Logan Paul) ended up drawing in their first match. K.S.I defeated Logan Paul via split decision, with two judges scoring the match 56-55 and 57-54 in his favour. The third judge gave it in favour of Logan Paul, scoring 56-55 in his favour. This fight actually sold two million Pay-Per-Views becoming the fifth highest grossing fight in history.
+On the 9th of November 2019 we witnessed one of the most exciting crossover boxing matchs.It was held at _Staples Centre_ in _Los Angeles, California_. This was actually a rematch after the two opponents (_K.S.I_ and _Logan Paul_) ended up drawing in their first match. _K.S.I_ defeated _Logan Paul_ via split decision, with two judges scoring the match **56-55** and **57-54** in his favour. The third judge gave it in favour of Logan Paul, scoring **56-55** in his favour. This fight actually sold two million Pay-Per-Views becoming the fifth highest grossing fight in history.
 
 {{< youtube 5to980XceD4 >}}
 
