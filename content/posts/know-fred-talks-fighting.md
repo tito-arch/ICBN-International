@@ -9,7 +9,7 @@ title = "KNOW FRED TALKS FIGHTING"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/img_20230219_184431.jpg"
 
 +++
 ### WHO IS _FRED_
