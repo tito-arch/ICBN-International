@@ -36,6 +36,6 @@ After that he interviewed _Niko_ and _FouseyTUBE_ on the 4th of March 2022 which
 
 {{< youtube u5kZajdcMiw >}}
 
-Currently his YouTube channel stands at 70.2 thousand subscribers with a total of 24 million channel views as of the writing of this article.
+Currently his YouTube channel stands at **70.2** **thousand** subscribers with a total of **24 million** channel views as of the writing of this article.
 
 In conclusion, Fred Beck is a good example and inspiration to young people that it is still possible. Fred Beck’s consistency and passion for journalism is truly exceptional.
