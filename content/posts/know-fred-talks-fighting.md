@@ -12,3 +12,22 @@ caption = ""
 image = ""
 
 +++
+WHO IS FRED
+
+Fred Beck is an 18 year old you tuber from Richmond, England, United Kingdom who does interviews on traditional boxing, crossover boxing and MMA.
+
+Fred did his primary and secondary education at Christ’s School in Richmond, London. Fred is currently studying Creative Media BTEC level 3 at Kingston College.
+
+Fred Beck has also worked as a pot wash at a restaurant before his you tube career kicked off, this was around January 2022.
+
+FRED’S YOUTUBE JOURNEY
+
+Fred Beck joined YouTube on 23rd December 2015 at only 11 years of age.
+
+His first video was on the 23rd of September 2020 where he interviewed Harvey Morgan a head coach at the Legends Boxing Gym. In this interview you can hear that Fred was still confident in asking questions as he is today. In this interview they talked about Crawford vs. Brook and much more. This video currently stands at 1,763 views at the time of writing this article.
+
+His break through videos were two, one was an interview with YouTube sensation Deji on the3rd of March 2022 , where they talked about fighting Alex Wassabi and his new training camp after deji fell out with his trainer Solomon who is currently training salt papi. After that he interviewed Niko and FouseyTUBE on the 4th of March 2022 which gained a whopping 264,585 views. This propelled him to the top of the pyramid when it came to YouTube boxing interviewers.
+
+Currently his YouTube channel stands at 70.2 thousand subscribers with a total of 24 million channel views as of the writing of this article.
+
+In conclusion, Fred Beck is a good example and inspiration to young people that it is still possible. Fred Beck’s consistency and passion for journalism is truly exceptional.
