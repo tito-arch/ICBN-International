@@ -26,7 +26,9 @@ Fred Beck joined YouTube on 23rd December 2015 at only 11 years of age.
 
 His first video was on the 23rd of September 2020 where he interviewed Harvey Morgan a head coach at the Legends Boxing Gym. In this interview you can hear that Fred was still confident in asking questions as he is today. In this interview they talked about Crawford vs. Brook and much more. This video currently stands at 1,763 views at the time of writing this article.
 
-His break through videos were two, one was an interview with YouTube sensation Deji on the 3rd of March 2022 , where they talked about fighting Alex Wassabi and his new training camp after deji fell out with his trainer Solomon who is currently training salt papi. 
+{{< youtube 5to980XceD4 >}}
+
+His break through videos were two, one was an interview with YouTube sensation Deji on the 3rd of March 2022 , where they talked about fighting Alex Wassabi and his new training camp after deji fell out with his trainer Solomon who is currently training salt papi.
 
 After that he interviewed Niko and FouseyTUBE on the 4th of March 2022 which gained a whopping 264,585 views. This propelled him to the top of the pyramid when it came to YouTube boxing interviewers.
 
