@@ -22,6 +22,8 @@ _Fred Beck_ has also worked as a pot wash at a restaurant before his you tube ca
 
 [fred-beck-pot-wash.jfif](/uploads/fred-beck-pot-wash.jfif "fred-beck-pot-wash.jfif")
 
+(Actual photo)
+
 ### _FRED_’S YOUTUBE JOURNEY
 
 _Fred Beck_ joined YouTube on 23rd December 2015 at only 11 years of age.
