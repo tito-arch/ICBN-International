@@ -12,7 +12,7 @@ caption = ""
 image = "/uploads/img_20230219_184431.jpg"
 
 +++
-### WHO IS _FRED_
+### WHO IS _FRED?_
 
 _Fred Beck_ is an 18-year-old YouTuber from _London, England, United Kingdom_ who does interviews on traditional boxing, crossover boxing, and MMA.
 
