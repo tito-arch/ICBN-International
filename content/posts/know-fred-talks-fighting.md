@@ -9,7 +9,7 @@ title = "KNOW FRED TALKS FIGHTING"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = "/uploads/fred-beck-interviewing.jfif"
+image = ""
 
 +++
 ### WHO IS _FRED_
