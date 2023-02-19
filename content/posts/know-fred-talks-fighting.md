@@ -34,7 +34,7 @@ His break through videos were two, one was an interview with YouTube sensation D
 
 After that he interviewed Niko and FouseyTUBE on the 4th of March 2022 which gained a whopping 264,585 views. This propelled him to the top of the pyramid when it came to YouTube boxing interviewers.
 
-{{< youtube bbff8c68VeM >}}
+{{< youtube u5kZajdcMiw >}}
 
 Currently his YouTube channel stands at 70.2 thousand subscribers with a total of 24 million channel views as of the writing of this article.
 
