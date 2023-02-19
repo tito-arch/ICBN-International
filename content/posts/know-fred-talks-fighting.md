@@ -12,15 +12,15 @@ caption = ""
 image = ""
 
 +++
-WHO IS FRED
+### WHO IS _FRED_
 
-Fred Beck is an 18 year old you tuber from Richmond, England, United Kingdom who does interviews on traditional boxing, crossover boxing and MMA.
+_Fred Beck_ is an 18 year old you tuber from _Richmond, England, United Kingdom_ who does interviews on traditional boxing, crossover boxing and MMA.
 
-Fred did his primary and secondary education at Christ’s School in Richmond, London. Fred is currently studying Creative Media BTEC level 3 at Kingston College.
+_Fred_ did his primary and secondary education at _Christ’s School_ in _Richmond, London_. _Fred_ is currently studying Creative Media BTEC level 3 at _Kingston College_.
 
-Fred Beck has also worked as a pot wash at a restaurant before his you tube career kicked off, this was around January 2022.
+_Fred Beck_ has also worked as a pot wash at a restaurant before his you tube career kicked off, this was around January 2022.
 
-FRED’S YOUTUBE JOURNEY
+### FRED’S YOUTUBE JOURNEY
 
 Fred Beck joined YouTube on 23rd December 2015 at only 11 years of age.
 
