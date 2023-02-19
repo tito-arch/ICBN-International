@@ -28,13 +28,19 @@ His first video was on the 23rd of September 2020 where he interviewed _Harvey M
 
 {{< youtube bbff8c68VeM >}}
 
+(Actual video)
+
 His break through videos were two, one was an interview with YouTube sensation _Deji_ on the 3rd of March 2022 , where they talked about fighting _Alex Wassabi_ and his new training camp after _deji_ fell out with his trainer _Solomon_ who is currently training _salt papi._
 
 {{< youtube HqnyqYSWVlQ >}}
 
+(Actual video)
+
 After that he interviewed _Niko_ and _FouseyTUBE_ on the 4th of March 2022 which gained a whopping **264,585** views. This propelled him to the top of the pyramid when it comes to YouTube boxing interviewers.
 
 {{< youtube u5kZajdcMiw >}}
+
+(Actual video)
 
 Currently his YouTube channel stands at **70.2** **thousand** subscribers with a total of **24 million** channel views as of the writing of this article.
 
