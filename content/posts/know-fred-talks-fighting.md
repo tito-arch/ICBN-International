@@ -15,7 +15,7 @@ image = "/uploads/img_20230219_184431.jpg"
 
 _Fred Beck_ is an 18-year-old YouTuber from _London, England, United Kingdom_ who does interviews on traditional boxing, crossover boxing, and MMA.
 
-_Fred_ did his primary education at _Marshgate primary school_ and secondary education at _Christ’s School_ in _London_. _Fred_ also studied Creative Media BTEC level 3 at _Kingston College_. He is now at _Salford University_ studying broadcast journalism.
+_Fred_ did his primary education at _Marshgate primary school_ and secondary education at _Christ’s School_ in _London_. _Fred_ also studied Creative Media BTEC level 3 at _Kingston College_. He is now at _Salford University_ studying broadcast journalism. _Fred_ currently lives in _Salford, Manchester._
 
 _Fred Beck_ also worked as a pot wash at a restaurant before his Youtube career kicked off, this was around January 2022.
 
@@ -25,7 +25,7 @@ _Fred Beck_ also worked as a pot wash at a restaurant before his Youtube career 
 
 ### _FRED_’S YOUTUBE JOURNEY
 
- joined YouTube on 23rd December 2015 at only 11 years of age._Fred Beck_
+joined YouTube on 23rd December 2015 at only 11 years of age._Fred Beck_
 
 His first video was on the 23rd of September 2020 where he interviewed _Harvey Morgan_ a head coach at the _Legends Boxing Gym_. In this interview, you can hear that _Fred_ was still confident in asking questions as he is today. In this interview, they talked about _Crawford_ vs. _Brook_ and much more. This video currently stands at **1,763** views at the time of writing this article.
 
