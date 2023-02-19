@@ -24,7 +24,7 @@ _Fred Beck_ has also worked as a pot wash at a restaurant before his you tube ca
 
 _Fred Beck_ joined YouTube on 23rd December 2015 at only 11 years of age.
 
-His first video was on the 23rd of September 2020 where he interviewed Harvey Morgan a head coach at the Legends Boxing Gym. In this interview you can hear that Fred was still confident in asking questions as he is today. In this interview they talked about Crawford vs. Brook and much more. This video currently stands at 1,763 views at the time of writing this article.
+His first video was on the 23rd of September 2020 where he interviewed _Harvey Morgan_ a head coach at the _Legends Boxing Gym_. In this interview you can hear that _Fred_ was still confident in asking questions as he is today. In this interview they talked about _Crawford_ vs. _Brook_ and much more. This video currently stands at **1,763** views at the time of writing this article.
 
 {{< youtube bbff8c68VeM >}}
 
