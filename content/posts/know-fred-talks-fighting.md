@@ -26,7 +26,7 @@ _Fred Beck_ also worked as a pot wash at a restaurant before his Youtube career 
 
 ### _FRED_’S YOUTUBE JOURNEY
 
-_Fred Beck_ joined YouTube on 23rd December 2015 at only 11 years of age.
+ joined YouTube on 23rd December 2015 at only 11 years of age._Fred Beck_
 
 His first video was on the 23rd of September 2020 where he interviewed _Harvey Morgan_ a head coach at the _Legends Boxing Gym_. In this interview, you can hear that _Fred_ was still confident in asking questions as he is today. In this interview, they talked about _Crawford_ vs. _Brook_ and much more. This video currently stands at **1,763** views at the time of writing this article.
 
@@ -34,7 +34,7 @@ His first video was on the 23rd of September 2020 where he interviewed _Harvey M
 
 (Actual video)
 
-His break through videos were two, one was an interview with YouTube sensation _Deji_ on the 3rd of March 2022 , where they talked about fighting _Alex Wassabi_ and his new training camp after _deji_ fell out with his trainer _Solomon_ who is currently training _salt papi._
+His breakthrough videos were two, one was an interview with YouTube sensation Deji on the 3rd of March 2022, where they talked about fighting Alex Wassabi and his new training camp after Deji fell out with his trainer Solomon who is currently training salt, Papi.
 
 {{< youtube HqnyqYSWVlQ >}}
 
