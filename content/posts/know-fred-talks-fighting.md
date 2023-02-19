@@ -34,7 +34,7 @@ His first video was on the 23rd of September 2020 where he interviewed _Harvey M
 
 (Actual video)
 
-His breakthrough videos were two, one was an interview with YouTube sensation Deji on the 3rd of March 2022, where they talked about fighting Alex Wassabi and his new training camp after Deji fell out with his trainer Solomon who is currently training salt, Papi.
+His breakthrough videos were two, one was an interview with YouTube sensation _Deji_ on the 3rd of March 2022, where they talked about fighting _Alex Wassabi_ and his new training camp after _Deji_ fell out with his trainer _Solomon_ who is currently training Salt Papi.
 
 {{< youtube HqnyqYSWVlQ >}}
 
