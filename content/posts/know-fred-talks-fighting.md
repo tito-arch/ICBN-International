@@ -20,8 +20,6 @@ _Fred_ did his primary and secondary education at _Christ’s School_ in _Richmo
 
 _Fred Beck_ has also worked as a pot wash at a restaurant before his you tube career kicked off, this was around January 2022.
 
-[fred-beck-pot-wash.jfif](/uploads/fred-beck-pot-wash.jfif "fred-beck-pot-wash.jfif")
-
 (Actual photo)
 
 ### _FRED_’S YOUTUBE JOURNEY
