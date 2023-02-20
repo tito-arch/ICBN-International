@@ -51,6 +51,7 @@ fields:
     - Fight News
     - Upcoming Events
     - Beginner's guide
+    - I.C.B.N Profiles
     source:
       type: simple
       section: 
