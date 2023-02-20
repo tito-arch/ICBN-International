@@ -50,7 +50,6 @@ fields:
     - Breaking News
     - Fight News
     - Upcoming Events
-    - Fighter Profiles
     - Beginner's guide
     source:
       type: simple
