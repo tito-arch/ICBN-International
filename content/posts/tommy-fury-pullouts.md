@@ -30,6 +30,8 @@ On the 29th of august 2021, Tommy Fury made his U.S. debut on the Jake Paul vs T
 
 On the 23rd of April 2022, he fought Daniel Bocianski at Wembley Stadium on his brother’s undercard. He won this fight via a unanimous decision from the judges.
 
+{{< youtube HQwtfzJpRxY >}}
+
 On the 26th of  February, Tommy Fury is set to face Jake Paul in Riyadh, Saudi Arabia. This will be his first pay-per-view bout.
 
 PULL-OUTS
