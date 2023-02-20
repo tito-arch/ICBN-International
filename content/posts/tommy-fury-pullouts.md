@@ -20,9 +20,9 @@ BOXING CAREER
 
 Tommy Fury made his debut on the 22nd of December 2018 against Jevgenijs Andrejevs at the Manchester Arena. He won that fight by unanimous decision from the judges.
 
- His second fight was on the 23rd of March 2019 against Callum Ide and he won via first round Knock out (KO).
+His second fight was on the 23rd of March 2019 against Callum Ide and he won via first round Knock out (KO).
 
- His third fight was against Przemyslaw Binienda at the Copper Box Arena in London on the 21st of December 2019. He won this fight by a first-round technical knockout(TKO)
+His third fight was against Przemyslaw Binienda at the Copper Box Arena in London on the 21st of December 2019. He won this fight by a first-round technical knockout(TKO)
 
 His fourth fight was on the 13th of November 2020, against Genadij Krajevskij. He won via second-round knockout. He later fought Jordan Grant and won via unanimous decision, this was on the 5th of June 2021.
 
@@ -38,6 +38,10 @@ Tommy Fury has pulled out of his scheduled fight two times in a row.
 
 The first instance happened when Tommy fury was set to fight Jake Paul on the 18th of December 2021 in Tampa, Florida. This was after he won the fight with former UFC welterweight champion Tyron Woodley. On the 6th of December 2021, Tommy Fury pulled out of the Jake Paul fight due to some health issues, which were later revealed as a severe chest infection and a broken rib. This was somewhat expected since there was so much at stake and some people believed that the pressure got into Tommy’s head. After this pull-out Tyron Woodley who had earlier fought Tommy and Jake Paul was announced as the replacement fighter.
 
-The second instance was controversial in a way, Tommy Fury was supposed to fight (5-2-0) professional boxer Paul Bamba who is also a former marine. The bout was scheduled to happen on the 13th of November 2022 at the Coca-cola Arena, Dubai 
+{{< youtube 5to980XceD4 >}}
+
+The second instance was controversial in a way, Tommy Fury was supposed to fight (5-2-0) professional boxer Paul Bamba who is also a former marine. The bout was scheduled to happen on the 13th of November 2022 at the Coca-cola Arena, Dubai
 
 On the 12th of November 2022, it was officially announced that Tommy Fury had come in overweight at 184.4 lbs for his fight with Paul Bamba. His opponent Paul Bamba was disappointed at this unprofessional behavior and demanded 20% of Fury’s purse and Fury has to cut at least 3 lbs. After all, this came to light Tommy Fury put out a video responding to all that, he said that he was given a different contract from the one Paul had and it had a different weight requirement. Paul Bamba’s replacement was Rolly Lambert Fogoum a professional boxer with a record of 15 wins 1 loss and 1 draw (15-1-1). Rolly Lambert was the current W.B.O and W.B.A champion when this exhibition fight happened.
+
+{{< youtube 5to980XceD4 >}}
