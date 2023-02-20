@@ -13,7 +13,7 @@ image = "/uploads/img_20230219_184431.jpg"
 +++
 ## Who is Fred Beck?
 
-**Fred Beck is a Gen-Z YouTuber from London, England, United Kingdom who does interviews on traditional boxing, crossover boxing, and MMA.**
+**Fred Beck is a Gen-Z YouTuber from London, England, United Kingdom who does interviews on traditional boxing, crossover boxing, and MMA. Fred is 18 years old barely two decades.**
 
 ### Education
 
@@ -23,9 +23,9 @@ Fred Beck also worked as a pot wash at a restaurant before his Youtube career ki
 
 ![](/uploads/img_20230219_184322.jpg)
 
-## FRED’S YOUTUBE JOURNEY
+## FRED Beck's YOUTUBE JOURNEY
 
-Joined YouTube on 23rd December 2015 at only 11 years of age. _Fred Beck_
+Joined YouTube on 23rd December 2015 at insanely 11 years of age.
 
 His first video was on the 23rd of September 2020 where he interviewed _Harvey Morgan_ a head coach at the _Legends Boxing Gym_. In this interview, you can hear that _Fred_ was still confident in asking questions as he is today. They talked about _Crawford_ vs. _Brook_ and much more. This video currently stands at **1,763** views when writing this article.
 
@@ -41,4 +41,14 @@ After that, he interviewed _Niko_ and _FouseyTUBE_ on the 4th of March 2022 whic
 
 Currently, his YouTube channel stands at **70.2K** subscribers with a total of **24 M** channel views as of the writing of this article.
 
-In conclusion, Fred Beck is a good example and inspiration to young people showing that it is still possible. Fred Beck’s consistency and passion for journalism are genuinely exceptional.
+> **_Editors note:_**
+>
+> In conclusion, Fred Beck is a good example and inspiration to young people showing that it is still possible. Fred Beck’s consistency and passion for journalism are genuinely exceptional.
+
+### Fred Beck Social Links:
+
+Youtube: **@**[**Fred Talks Fighting**](https://www.youtube.com/@fredtalksfighting5327)
+
+Twitter:  **@**[**fredpdbeck**](https://twitter.com/fredpdbeck?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+Instagram: @[**Fred Talks Fighting**]()
