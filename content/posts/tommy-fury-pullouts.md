@@ -9,12 +9,14 @@ title = "TOMMY FURY PULLOUTS"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/tommy-fury.jpg"
 
 +++
 WHO IS TOMMY FURY?
 
 Tommy Fury is a 6 foot (183cm) orthodox professional British boxer with a reach of 80 inches who comes from a long line of boxers. In June 2019 Tommy Fury went on a reality tv show in its fifth series, The show was called Love Island. Tommy Fury was born on 7th  May 1999 in Manchester, England. He is the younger half-brother of heavyweight world champion Tyson Fury. He has a partner who he met while he was in the reality TV series Love Island, her name is Molly-Mae Hague and together they have a child.
+
+![](/uploads/tommy-fury-getty-image.jpg)
 
 BOXING CAREER
 
@@ -23,6 +25,8 @@ Tommy Fury made his debut on the 22nd of December 2018 against Jevgenijs Andreje
 His second fight was on the 23rd of March 2019 against Callum Ide and he won via first round Knock out (KO).
 
 His third fight was against Przemyslaw Binienda at the Copper Box Arena in London on the 21st of December 2019. He won this fight by a first-round technical knockout(TKO)
+
+![](/uploads/tommy-fury-walks-to-the-ring-during-the-boxing-event-at-the-telford-international-centre-telford-picture-date-saturday-june-5-2021-2g18j3w.jpg)
 
 His fourth fight was on the 13th of November 2020, against Genadij Krajevskij. He won via second-round knockout. He later fought Jordan Grant and won via unanimous decision, this was on the 5th of June 2021.
 
