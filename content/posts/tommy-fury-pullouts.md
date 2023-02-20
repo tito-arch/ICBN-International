@@ -46,7 +46,7 @@ The first instance happened when _Tommy fury_ was set to fight _Jake Paul_ on th
 
 {{< youtube  [VfJxXyXXD18](https://youtu.be/VfJxXyXXD18)>}}
 
-The second instance was controversial in a way, _Tommy Fury_ was supposed to fight (5-2-0) professional boxer _Paul Bamba_ who is also a former marine. Paul Bamba recently signed a multi-fight deal with Misfits Boxing. The bout was scheduled to happen on the 13th of November 2022 at the Coca-cola Arena, Dubai
+The second instance was controversial in a way, _Tommy Fury_ was supposed to fight (5-2-0) professional boxer _Paul Bamba_ who is also a former marine. _Paul Bamba_ recently signed a multi-fight deal with _Misfits Boxing_. The bout was scheduled to happen on the 13th of November 2022 at the Coca-cola Arena, Dubai
 
 On the 12th of November 2022, it was officially announced that _Tommy Fury_ had come in overweight at 184.4 lbs for his fight with _Paul Bamba_. His opponent _Paul Bamba_ was disappointed at this unprofessional behavior and demanded 20% of Fury’s purse and Fury has to cut at least 3 lbs. After all, this came to light _Tommy Fury_ put out a video responding to all that, he said that he was given a different contract from the one _Paul_ had and it had a different weight requirement. _Paul Bamba_’s replacement was _Rolly Lambert Fogoum_ a professional boxer with a record of 15 wins 1 loss and 1 draw (15-1-1). _Rolly Lambert_ was the current W.B.O and W.B.A champion when this exhibition fight happened.
 
