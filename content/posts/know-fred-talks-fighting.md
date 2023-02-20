@@ -1,6 +1,6 @@
 +++
 author = "Alex M.M"
-categories = "Breaking News"
+categories = "I.C.B.N Profiles"
 date = 2023-02-19T14:11:35Z
 description = "Fred Beck, an 18-year-old YouTube star from London who's making waves in the world of boxing interviews. Learn how he's risen to fame, and what sets him apart.."
 tags = ["Biography", "Did you know"]
