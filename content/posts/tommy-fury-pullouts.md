@@ -12,7 +12,7 @@ caption = ""
 image = "/uploads/tommy-fury.jpg"
 
 +++
-WHO IS TOMMY FURY?
+### WHO IS TOMMY FURY?
 
 Tommy Fury is a 6 foot (183cm) orthodox professional British boxer with a reach of 80 inches who comes from a long line of boxers. In June 2019 Tommy Fury went on a reality tv show in its fifth series, The show was called Love Island. Tommy Fury was born on 7th  May 1999 in Manchester, England. He is the younger half-brother of heavyweight world champion Tyson Fury. He has a partner who he met while he was in the reality TV series Love Island, her name is Molly-Mae Hague and together they have a child.
 
