@@ -15,7 +15,7 @@ image = "/uploads/img_20230219_184431.jpg"
 
 **Fred Beck is a Gen-Z YouTuber from London, England, United Kingdom who does interviews on traditional boxing, crossover boxing, and MMA.**
 
-### Fred's Schooling
+### Education
 
 Fred Beck attended Marshgate Primary School for his primary education and Christ's School for his secondary in London. Fred also studied Creative Media BTEC level 3 at Kingston College. He is now at Salford University studying broadcast journalism. Fred currently lives in Salford, Manchester.
 
