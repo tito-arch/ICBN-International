@@ -28,21 +28,21 @@ His third fight was against Przemyslaw Binienda at the Copper Box Arena in Londo
 
 ![](/uploads/sun_instagram_image_download_tommytntfury_124306.jpg)
 
-His fourth fight was on the 13th of November 2020, against _Genadij Krajevskij._ He won via second-round knockout. He later fought _Jordan Grant_ and won via unanimous decision, this was on the 5th of June 2021.
+His fourth fight was on the 13th of November 2020, against Genadij Krajevskij. He won via second-round knockout. He later fought Jordan Grant and won via unanimous decision, this was on the 5th of June 2021.
 
-On the 29th of august 2021, _Tommy Fury_ made his U.S. debut on the Jake Paul vs _Tyron Woodley_ undercard. He fought Anthony Taylor and won via a unanimous decision from the judges.
+On the 29th of august 2021, Tommy Fury made his U.S. debut on the Jake Paul vs Tyron Woodley undercard. He fought Anthony Taylor and won via a unanimous decision from the judges.
 
-On the 23rd of April 2022, he fought _Daniel Bocianski_ at _Wembley Stadium_ on his brother’s undercard. He won this fight via a unanimous decision from the judges.
+On the 23rd of April 2022, he fought Daniel Bocianski at Wembley Stadium on his brother’s undercard. He won this fight via a unanimous decision from the judges.
 
 {{< youtube HQwtfzJpRxY >}}
 
-On the 26th of  February, _Tommy Fury_ is set to face _Jake Paul_ in _Riyadh, Saudi Arabia_. This will be his first pay-per-view bout.
+On the 26th of  February, Tommy Fury is set to face Jake Paul in Riyadh, Saudi Arabia. This will be his first pay-per-view bout.
 
 ### PULL-OUTS
 
-_Tommy Fury_ has pulled out of his scheduled fight two times in a row.
+Tommy Fury has pulled out of his scheduled fight two times in a row.
 
-The first instance happened when _Tommy fury_ was set to fight _Jake Paul_ on the 18th of December 2021 in _Tampa, Florida._ This was after he won the fight with former UFC welterweight champion _Tyron Woodley_. On the 6th of December 2021, _Tommy Fury_ pulled out of the _Jake Paul_ fight due to some health issues, which were later revealed as a severe chest infection and a broken rib. This was somewhat expected since there was so much at stake and some people believed that the pressure got into _Tommy’_s head. After this pull-out _Tyron Woodley_ who had earlier fought _Tommy_ and _Jake Paul_ was announced as the replacement fighter.
+The first instance happened when Tommy fury was set to fight Jake Paul on the 18th of December 2021 in Tampa, Florida. This was after he won the fight with former UFC welterweight champion Tyron Woodley. On the 6th of December 2021, Tommy Fury pulled out of the Jake Paul fight due to some health issues, which were later revealed as a severe chest infection and a broken rib. This was somewhat expected since there was so much at stake and some people believed that the pressure got into _Tommy’_s head. After this pull-out Tyron Woodley who had earlier fought Tommy and Jake Paul was announced as the replacement fighter.
 
 {{< youtube  VfJxXyXXD18>}}
 
