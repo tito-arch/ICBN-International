@@ -3,7 +3,6 @@ author = "Alex M.M"
 categories = "Fight News"
 date = 2023-02-20T18:45:53Z
 description = "Get to know how may timesTommy fury has failed to show up for his fights in the past "
-draft = true
 tags = ["", ""]
 title = "TOMMY FURY PULLOUTS"
 [cover]
