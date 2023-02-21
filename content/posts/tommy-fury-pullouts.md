@@ -44,7 +44,7 @@ _Tommy Fury_ has pulled out of his scheduled fight two times in a row.
 
 The first instance happened when _Tommy fury_ was set to fight _Jake Paul_ on the 18th of December 2021 in _Tampa, Florida._ This was after he won the fight with former UFC welterweight champion _Tyron Woodley_. On the 6th of December 2021, _Tommy Fury_ pulled out of the _Jake Paul_ fight due to some health issues, which were later revealed as a severe chest infection and a broken rib. This was somewhat expected since there was so much at stake and some people believed that the pressure got into _Tommy’_s head. After this pull-out _Tyron Woodley_ who had earlier fought _Tommy_ and _Jake Paul_ was announced as the replacement fighter.
 
-{{< youtube  [VfJxXyXXD18](https://youtu.be/VfJxXyXXD18)>}}
+{{< youtube  VfJxXyXXD18>}}
 
 The second instance was controversial in a way, _Tommy Fury_ was supposed to fight (5-2-0) professional boxer _Paul Bamba_ who is also a former marine. _Paul Bamba_ recently signed a multi-fight deal with _Misfits Boxing_. The bout was scheduled to happen on the 13th of November 2022 at the Coca-cola Arena, Dubai
 
