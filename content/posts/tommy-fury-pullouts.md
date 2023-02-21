@@ -51,3 +51,5 @@ The second instance was controversial in a way, _Tommy Fury_ was supposed to fig
 On the 12th of November 2022, it was officially announced that _Tommy Fury_ had come in overweight at 184.4 lbs for his fight with _Paul Bamba_. His opponent _Paul Bamba_ was disappointed at this unprofessional behavior and demanded 20% of Fury’s purse and Fury has to cut at least 3 lbs. After all, this came to light _Tommy Fury_ put out a video responding to all that, he said that he was given a different contract from the one _Paul_ had and it had a different weight requirement. _Paul Bamba_’s replacement was _Rolly Lambert Fogoum_ a professional boxer with a record of 15 wins 1 loss and 1 draw (15-1-1). _Rolly Lambert_ was the current W.B.O and W.B.A champion when this exhibition fight happened.
 
 {{< youtube  [yZUapPXwqQQ](https://youtu.be/yZUapPXwqQQ)>}}
+
+Tommy has demonstrated some level of unprofessionalism, but that doesn't take away the fact that he is a decent boxer.
