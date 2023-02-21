@@ -20,11 +20,11 @@ Tommy Fury is a **6 foot (183cm)** orthodox professional British boxer with a re
 
 ### BOXING CAREER
 
-_Tommy Fury_ made his debut on the 22nd of December 2018 against _Jevgenijs Andrejevs_ at the _Manchester Arena_. He won that fight by unanimous decision from the judges.
+Tommy Fury made his debut on the 22nd of December 2018 against Jevgenijs Andrejevs at the Manchester Arena. He won that fight by unanimous decision from the judges.
 
-His second fight was on the 23rd of March 2019 against _Callum Ide_ and he won via first round Knock out (KO).
+His second fight was on the 23rd of March 2019 against Callum Ide and he won via first round Knock out (KO).
 
-His third fight was against _Przemyslaw Binienda_ at the _Copper Box Arena_ in _London_ on the 21st of December 2019. He won this fight by a first-round technical knockout(TKO)
+His third fight was against Przemyslaw Binienda at the Copper Box Arena in London on the 21st of December 2019. He won this fight by a first-round technical knockout(TKO)
 
 ![](/uploads/sun_instagram_image_download_tommytntfury_124306.jpg)
 
