@@ -46,9 +46,9 @@ The first instance happened when Tommy fury was set to fight Jake Paul on the 18
 
 {{< youtube  VfJxXyXXD18>}}
 
-The second instance was controversial in a way, _Tommy Fury_ was supposed to fight (5-2-0) professional boxer _Paul Bamba_ who is also a former marine. _Paul Bamba_ recently signed a multi-fight deal with _Misfits Boxing_. The bout was scheduled to happen on the 13th of November 2022 at the Coca-cola Arena, Dubai
+The second instance was controversial in a way, Tommy Fury was supposed to fight (5-2-0) professional boxer Paul Bamba who is also a former marine. Paul Bamba recently signed a multi-fight deal with Misfits Boxing. The bout was scheduled to happen on the 13th of November 2022 at the Coca-cola Arena, Dubai
 
-On the 12th of November 2022, it was officially announced that _Tommy Fury_ had come in overweight at 184.4 lbs for his fight with _Paul Bamba_. His opponent _Paul Bamba_ was disappointed at this unprofessional behavior and demanded 20% of Fury’s purse and Fury has to cut at least 3 lbs. After all, this came to light _Tommy Fury_ put out a video responding to all that, he said that he was given a different contract from the one _Paul_ had and it had a different weight requirement. _Paul Bamba_’s replacement was _Rolly Lambert Fogoum_ a professional boxer with a record of 15 wins 1 loss and 1 draw (15-1-1). _Rolly Lambert_ was the current W.B.O and W.B.A champion when this exhibition fight happened.
+On the 12th of November 2022, it was officially announced that Tommy Fury had come in overweight at 184.4 lbs for his fight with Paul Bamba. His opponent Paul Bamba was disappointed at this unprofessional behavior and demanded 20% of Fury’s purse and Fury has to cut at least 3 lbs. After all, this came to light Tommy Fury put out a video responding to all that, he said that he was given a different contract from the one Paul had and it had a different weight requirement. Paul Bamba’s replacement was Rolly Lambert Fogoum a professional boxer with a record of 15 wins 1 loss and 1 draw (15-1-1). Rolly Lambert was the current W.B.O and W.B.A champion when this exhibition fight happened.
 
 {{< youtube  yZUapPXwqQQ>}}
 
