@@ -53,3 +53,5 @@ On the 12th of November 2022, it was officially announced that _Tommy Fury_ had 
 {{< youtube  [yZUapPXwqQQ](https://youtu.be/yZUapPXwqQQ)>}}
 
 _Tommy_ has demonstrated some level of unprofessionalism, but that doesn't take away the fact that he is a decent boxer.
+
+Twitter:  **@**[**Chamboxing**](https://twitter.com/ChamBoxing) **, @**[**ICBRankings**](https://twitter.com/ICBrankings)
