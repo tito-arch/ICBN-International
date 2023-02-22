@@ -20,6 +20,8 @@ Fox was born in Slough, united kingdom in 2005, and moved to Michigan at the age
 
 FOX THE G’S YOUTUBE JOURNEY
 
+![](/uploads/foxtheg_-20230222-0002.jpg)
+
 Fox has always been making youtube videos, since the age of around eight. He currently has 110k subscribers on his Youtube channel as of the time of writing this article. The first video recorded on his current youtube channel was on the 8th of February 2021, it is a Fortnite video labeled ( default.mp4). The video has had 2,270 views and 96 likes as of the writing of this article.
 
 {{< youtube TpJcQ4GSKKk >}}
