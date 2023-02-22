@@ -22,13 +22,13 @@ Fox started going to school at Mattawan Consolidated Schools and met his childho
 
 ![](/uploads/foxtheg_-20230222-0002.jpg)
 
-Fox has always been making youtube videos, since the age of around eight. He currently has **110k** subscribers on his Youtube channel as of the time of writing this article. The first video recorded on his current youtube channel was on the 8th of February 2021, it is a Fortnite video labeled ( default.mp4). The video has had **2,270** views and **96** likes as of the writing of this article.
+Fox has always been making youtube videos, since the age of around eight. He currently has **110k** subscribers on his Youtube channel as of the time of writing this article. The first video recorded on his current youtube channel was on the 8th of February 2021, it is a Fortnite video labeled ( default.mp4). The video has had **2,270** views and **96** likes.
 
 {{< youtube TpJcQ4GSKKk >}}
 
 Fox found his success through the youtube boxing scene.  His first video about youtube boxing was on the 19th of May 2021. The video was about Bryce Hall having the thought of beating K.S.I. At the time of writing this article, the video has accumulated a total of **48,082** views and **2.2k** likes. This video was also featured in K.S.It‘s Reddit.
 
-{{< youtube -NGI54ny0hI >}} 
+{{< youtube -NGI54ny0hI >}}
 
 However, on the 25th of July 2021, Fox got some eyeballs to his channel when he met the popular British YouTuber K.S.I asked him to honor a promise he made of going bald if he got a number-one album in the official charts. This was a defining moment for Fox. The video currently stands at **1,280,947** views and **82k** likes.
 
