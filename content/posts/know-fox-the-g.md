@@ -44,7 +44,7 @@ Fox has been building his boxing career both in the ring and outside the ring. O
 
 {{< youtube 0-yp3ZpKTos >}}
 
-STRUGGLES
+### STRUGGLES
 
 .Fox also revealed he has always struggled with mental health, and had a bit of a scare last year. He started drinking alcohol as his depression got worse, and even had some self-harming attempts. At this troubling time, he abandoned his youtube channel… and he stayed in a very dark place for a few months. Fate had other plans for Fox and he started going to the boxing gym regularly.![](/uploads/foxtheg_-20230222-0004.jpg)
 
