@@ -4,7 +4,7 @@ categories = "I.C.B.N Profiles"
 date = 2023-02-22T05:35:30Z
 description = "This is the ambitious story of a young British/American YouTuber turned boxer."
 draft = true
-tags = ["", ""]
+tags = ["Biography", "History"]
 title = "Fortnite kid turned crossover boxer: The rise of Fox-The-G"
 [cover]
 alt = "bunnie abc"
