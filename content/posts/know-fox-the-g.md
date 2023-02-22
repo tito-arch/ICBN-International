@@ -30,7 +30,7 @@ Fox found his success through the youtube boxing scene.  His first video about y
 
 {{< youtube -NGI54ny0hI >}}
 
-However, on the 25th of July 2021, Fox got some eyeballs to his channel when he met the popular British YouTuber K.S.I asked him to honor a promise he made of going bald if he got a number-one album in the official charts. This was a defining moment for Fox. The video currently stands at **1,280,947** views and **82k** likes.
+However, on the 25th of July 2021, Fox got some eyeballs to his channel when he met the popular British YouTuber K.S.I and asked him to honor a promise he made of going bald if he got a number-one album in the official charts. This was a defining moment for Fox. The video currently stands at **1,280,947** views and **82k** likes.
 
 {{< youtube d-iofrMS-Fk >}}
 
