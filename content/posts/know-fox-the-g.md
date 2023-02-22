@@ -9,7 +9,7 @@ title = "Fortnite kid turned crossover boxer: The rise of Fox-The-G"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = "/uploads/foxtheg_-20230222-0001.jpg"
+image = "/uploads/foxtheg_-20230222-0004.jpg"
 
 +++
 WHO IS FOX-THE-G?
