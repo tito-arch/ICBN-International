@@ -38,7 +38,9 @@ His Youtube career has been a rollercoaster but it's finally taking shape.
 
 BOXING CAREER
 
-Fox has been building his boxing career both in the ring and outside the ring. On August 20th, 2022 Fox signed his first contract as a ring announcer on misfits X series 001. This was a huge step in his career as a crossover boxer. This was not the last time we saw fox since on the 23rd of December 2022 he announced that he will also be featured in Misfits X series 004 as an interviewer. During all this Fox did not stop training and he worked harder and harder in the gym improving his skills further. He is rumored to have his crossover boxing debut soon.
+Fox has been building his boxing career both in the ring and outside the ring. On August 20th, 2022 Fox signed his first contract as a ring announcer on misfits X series 001.![](/uploads/foxtheg_-20230222-0005.jpg)
+
+ This was a huge step in his career as a crossover boxer. This was not the last time we saw fox since on the 23rd of December 2022 he announced that he will also be featured in Misfits X series 004 as an interviewer. During all this Fox did not stop training and he worked harder and harder in the gym improving his skills further. He is rumored to have his crossover boxing debut soon.
 
 {{< youtube 0-yp3ZpKTos >}}
 
