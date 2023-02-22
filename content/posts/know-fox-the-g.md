@@ -50,4 +50,4 @@ This was a huge step in his career as a crossover boxer. This was not the last t
 
 This was the move that saved his life, and now he now trains daily while making videos daily. Fox and his friends spent hours on videos last summer, all the way through the early morning hours which is a clear action of persistence and passion in being a content creator
 
-Despite all these setbacks he has stated in his own words his goal is to show people that you can get through what they are going through, and become someone amazing.
+Despite all these setbacks in his own words "my goal is to show people that you can get through what they are going through, and become someone amazing".
