@@ -12,13 +12,13 @@ caption = ""
 image = "/uploads/foxtheg_-20230222-0001.jpg"
 
 +++
-WHO IS FOX-THE-G?
+### WHO IS FOX-THE-G?
 
 Fox was born in Slough, united kingdom in 2005, and moved to Michigan at the age of 3 due to his mom’s work. His parents split up shortly after, so this meant it was just him and his mom in America by themselves.![](/uploads/fox-as-a-kid.jpg)
 
  Fox started going to school at Mattawan Consolidated Schools and met his childhood best friend Andrew, who he still hangs out with to this day. He started playing hockey when he was 11 and had a pretty decent career with his school team
 
-FOX THE G’S YOUTUBE JOURNEY
+### FOX-THE-G’S YOUTUBE JOURNEY
 
 ![](/uploads/foxtheg_-20230222-0002.jpg)
 
