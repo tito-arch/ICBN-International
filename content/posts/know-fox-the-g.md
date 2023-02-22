@@ -36,7 +36,7 @@ However, on the 25th of July 2021, Fox got some eyeballs to his channel when he 
 
 His Youtube career has been a rollercoaster but it's finally taking shape.
 
-BOXING CAREER
+### BOXING CAREER
 
 Fox has been building his boxing career both in the ring and outside the ring. On August 20th, 2022 Fox signed his first contract as a ring announcer on misfits X series 001.![](/uploads/foxtheg_-20230222-0005.jpg)
 
