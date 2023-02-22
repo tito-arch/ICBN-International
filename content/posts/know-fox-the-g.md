@@ -18,7 +18,7 @@ Fox was born in Slough, united kingdom in 2005, and moved to Michigan at the age
 
 FOX THE G’S YOUTUBE JOURNEY
 
-Fox has always been making youtube videos, since the age of around eight. The first video recorded on his current youtube channel was on the 8th of February 2021, it is a Fortnite video labeled ( default.mp4). The video has had 2,270 views and 96 likes as of the writing of this article.
+Fox has always been making youtube videos, since the age of around eight. He currently has 110k subscribers on his Youtube channel as of the time of writing this article. The first video recorded on his current youtube channel was on the 8th of February 2021, it is a Fortnite video labeled ( default.mp4). The video has had 2,270 views and 96 likes as of the writing of this article.
 
 {{< youtube TpJcQ4GSKKk >}}
 
@@ -28,7 +28,7 @@ Fox found his success through the youtube boxing scene.  His first video about y
 
 However, on the 25th of July 2021, Fox got some eyeballs to his channel when he met the popular British YouTuber K.S.I asked him to honor a promise he made of going bald if he got a number-one album in the official charts. This was a defining moment for Fox. The video currently stands at 1,280,947 views and 82k likes.
 
-{{< youtube d-iofrMS-Fk >}}  
+{{< youtube d-iofrMS-Fk >}}
 
 His Youtube career has been a rollercoaster but it's finally taking shape.
 
@@ -36,7 +36,7 @@ BOXING CAREER
 
 Fox has been building his boxing career both in the ring and outside the ring. On August 20th, 2022 Fox signed his first contract as a ring announcer on misfits X series 001. This was a huge step in his career as a crossover boxer. This was not the last time we saw fox since on the 23rd of December 2022 he announced that he will also be featured in Misfits X series 004 as an interviewer. During all this Fox did not stop training and he worked harder and harder in the gym improving his skills further. He is rumored to have his crossover boxing debut soon.
 
-{{< youtube 0-yp3ZpKTos >}}  
+{{< youtube 0-yp3ZpKTos >}}
 
 STRUGGLES
 
