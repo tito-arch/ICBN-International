@@ -46,7 +46,7 @@ This was a huge step in his career as a crossover boxer. This was not the last t
 
 ### STRUGGLES
 
-.Fox also revealed he has always struggled with mental health, and had a bit of a scare last year. He started drinking alcohol as his depression got worse, and even had some self-harming attempts. At this troubling time, he abandoned his youtube channel… and he stayed in a very dark place for a few months. Fate had other plans for Fox and he started going to the boxing gym regularly.![](/uploads/foxtheg_-20230222-0004.jpg)
+.Fox also revealed he has always struggled with mental health, and had a bit of a scare last year. He started drinking alcohol as his depression got worse, and even had some self-harming attempts. At this troubling time, he abandoned his youtube channel… and was in a very dark place for a few months. Fate had other plans for Fox and he started going to the boxing gym regularly.![](/uploads/foxtheg_-20230222-0004.jpg)
 
 This was the move that saved his life, and now he is training daily and making videos daily. Fox and his friends spent hours on videos last summer, all the way through the early morning hours which is a clear action of persistence and passion in being a content creator
 
