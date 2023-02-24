@@ -14,6 +14,8 @@ image = "/uploads/joy-boxing-champion-boxing-wallpaper-preview.jpg"
 +++
 One of the best boxers in history, Floyd Mayweather Jr., will be remembered in history. In his professional career, Mayweather won 50 fights and held numerous world championships in five different weight divisions. Due to his involvement in exhibition bouts, Mayweather's legacy has recently come under scrutiny.
 
+![](/uploads/img_20230214_212154.jpg)
+
 Exhibition matches are basically unofficial fights that don't count toward a fighter's professional record. They are usually staged for entertainment and frequently include former fighters or famous people. In Mayweather's instance, since quitting professional boxing in 2017, he has taken part in a number of exhibition matches.
 
 The first of these matches took place in 2017 against UFC champion Conor McGregor. Despite being a fairly one-sided contest, the battle garnered a ton of publicity and broke pay-per-view sales records. Since then, Mayweather has taken part in a number of exhibition battles, including matches against kickboxer Tenshin Nasukawa and YouTubers Logan Paul and Deji. Mayweather is also having an exhibition on the 25th of February 2023 and its not getting as much attention as it should get. The press conference barely got a third of the media coverage compared to the Jake Paul  versus Tommy Fury press conference.
@@ -21,6 +23,8 @@ The first of these matches took place in 2017 against UFC champion Conor McGrego
 {{< youtube V0LU22gGUMI >}}
 
 While some supporters might find Mayweather's exhibition fights entertaining, others contend that they are detracting from his reputation as one of the best boxers of all time. With his lone defeat occurring early in his tenure, Mayweather had a nearly unblemished professional record. However, Mayweather effectively diminishes the significance of his professional record by taking part in exhibition bouts.
+
+![](/uploads/floyd-mayweather-logan-paul.jpg)
 
 In addition, many contend that Mayweather is just trying to make more money since he has already made millions of dollars throughout his career by participating in these exhibition bouts. Critics point out that these fights are not a true measure of Mayweather's fighting prowess because his opponents are frequently significantly less skilled and experienced than he is.
 
