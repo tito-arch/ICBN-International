@@ -3,7 +3,6 @@ author = "Alex M.M"
 categories = "Fight News"
 date = 2023-02-24T16:19:26Z
 description = "Floyd Mayweather might be destroying his legacy which is his greatest asset"
-draft = true
 tags = ["", ""]
 title = "Is Floyd Mayweather destroying his legacy?"
 [cover]
