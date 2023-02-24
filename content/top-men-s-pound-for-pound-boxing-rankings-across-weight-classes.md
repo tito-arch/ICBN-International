@@ -1,7 +1,7 @@
 +++
 author = "Alex M.M"
 categories = "Fight News"
-date = 2023-02-13T17:53:16Z
+date = 2023-02-24T17:53:16Z
 description = "Get an in-depth analysis of the top men's P4P boxers and their performance in various weight classes. Rankings based on records, abilities & activity."
 tags = ["Men P4P Rankings", "Rankings", "P4P"]
 title = "Top Men's Pound-for-Pound Boxing Rankings: Across Weight Classes."
