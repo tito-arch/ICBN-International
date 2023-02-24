@@ -9,7 +9,7 @@ title = "Is Floyd Mayweather destroying his legacy?"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/joy-boxing-champion-boxing-wallpaper-preview.jpg"
 
 +++
 One of the best boxers in history, Floyd Mayweather Jr., will be remembered in history. In his professional career, Mayweather won 50 fights and held numerous world championships in five different weight divisions. Due to his involvement in exhibition bouts, Mayweather's legacy has recently come under scrutiny.
