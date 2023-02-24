@@ -16,7 +16,7 @@ One of the best boxers in history, Floyd Mayweather Jr., will be remembered in h
 
 Exhibition matches are basically unofficial fights that don't count toward a fighter's professional record. They are usually staged for entertainment and frequently include former fighters or famous people. In Mayweather's instance, since quitting professional boxing in 2017, he has taken part in a number of exhibition matches.
 
-The first of these matches took place in 2017 against UFC champion Conor McGregor. Despite being a fairly one-sided contest, the battle garnered a ton of publicity and broke pay-per-view sales records. Since then, Mayweather has taken part in a number of exhibition battles, including matches against kickboxer Tenshin Nasukawa and YouTubers Logan Paul and Deji.
+The first of these matches took place in 2017 against UFC champion Conor McGregor. Despite being a fairly one-sided contest, the battle garnered a ton of publicity and broke pay-per-view sales records. Since then, Mayweather has taken part in a number of exhibition battles, including matches against kickboxer Tenshin Nasukawa and YouTubers Logan Paul and Deji. Mayweather is also having an exhibition on the 25th of February 2023 and its not getting as much attention as it should get. The press conference barely got a third of the media coverage compared to the Jake Paul  versus Tommy Fury press conference.
 
 {{< youtube V0LU22gGUMI >}}
 
