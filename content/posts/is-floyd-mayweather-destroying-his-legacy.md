@@ -18,7 +18,7 @@ Exhibition matches are basically unofficial fights that don't count toward a fig
 
 The first of these matches took place in 2017 against UFC champion Conor McGregor. Despite being a fairly one-sided contest, the battle garnered a ton of publicity and broke pay-per-view sales records. Since then, Mayweather has taken part in a number of exhibition battles, including matches against kickboxer Tenshin Nasukawa and YouTubers Logan Paul and Deji.
 
-https://youtu.be/V0LU22gGUMI
+{{< youtube V0LU22gGUMI >}}
 
 While some supporters might find Mayweather's exhibition fights entertaining, others contend that they are detracting from his reputation as one of the best boxers of all time. With his lone defeat occurring early in his tenure, Mayweather had a nearly unblemished professional record. However, Mayweather effectively diminishes the significance of his professional record by taking part in exhibition bouts.
 
