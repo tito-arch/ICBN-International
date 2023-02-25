@@ -102,7 +102,7 @@ A win against a bad opponent holds no weight ,an impressive win against a good o
 |     HW     	|     **NICK JOSEPH**    	|       0 - 1 - 0 	|      12     	|      1     	|        7        	|        3       	|       1      	|      **24**     	|
 |     CW     	|      **OVERTFLOW**     	|       0 - 2 - 0 	|      10     	|      1     	|        7        	|        5       	|       1      	|      **24**     	|
 |     SWW    	|   **MARCUS PORTILLO**  	|       0 - 1 - 0 	|      12     	|      1     	|        6        	|        4       	|       1      	|      **24**     	|
-|     MW     	|       **OJ ROSE**      	|       1 - 0 - 0 	|      12     	|      5     	|        4        	|        2       	|       1      	|      **24**     	|
+|     MW     	|       **OJ  ROSÉ**      	|       1 - 0 - 0 	|      12     	|      5     	|        4        	|        2       	|       1      	|      **24**     	|
 |     HW     	|    **FESSYFITNESS**    	|       1 - 0 - 0 	|      12     	|      5     	|        3        	|        2       	|       1      	|      **23**     	|
 |     SMW    	|      **CHERDLEYS**     	|       0 - 1 - 0 	|      8      	|      1     	|        7        	|        6       	|       1      	|      **23**     	|
 |     CW     	|       **HUNDAR**       	|       1 - 0 - 0 	|      10     	|      5     	|        4        	|        2       	|       1      	|      **22**     	|
