@@ -16,7 +16,7 @@ The much-anticipated battle between boxing great Floyd Mayweather Jr. and Geordi
 
 ![](/uploads/mayweather-event-1.jpg)
 
-The undercard fights
+### The undercard fights
 
 The night's undercard bouts featured some exciting moments and some skilled competitors. Kevin Johnson and Mike Hales squared off in the opening heavyweight match. With the help of his expertise, Johnson, a seasoned athlete, outboxed Hales to win the contest by unanimous vote.
 
@@ -26,7 +26,7 @@ J'Hon Ingram competed against Meeks Kastelo in the third match on the undercard 
 
 Ulysses Diaz and Khalas Karim battled it out at welterweight in the fourth contest on the undercard. Using his better footwork and boxing abilities, Diaz outclassed Karim early on and won the bout by a unanimous decision.
 
-The Co-Main Event: Natalie Nunn vs Tommie Lee
+### The Co-Main Event: Natalie Nunn vs Tommie Lee
 
 Natalie Nunn and Tommie Lee, two reality television stars, squared off in a celebrity boxing fight as the evening's co-main event. In the weeks building up to the fight, the two celebrities had been verbally abusing one another, and fans were curious to see who would win.
 
@@ -34,7 +34,7 @@ Both fighters delivered powerful blows in the tightly contested contest. After a
 
 ![](/uploads/mayweather-event-2.jpg)
 
-The Main Event: Mayweather vs Chalmers
+### The Main Event: Mayweather vs Chalmers
 
 The highly anticipated fight between Floyd Mayweather Jr. and Aaron Chalmers served as the evening's main attraction. The fight featured Mayweather, widely regarded as the best boxer of all time, who had come out of retirement, and Chalmers, who was looking to make a statement in his first major boxing contest.
 
