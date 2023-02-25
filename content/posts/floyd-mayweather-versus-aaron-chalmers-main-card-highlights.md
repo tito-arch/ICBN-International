@@ -18,7 +18,7 @@ The much-anticipated battle between boxing great Floyd Mayweather Jr. and Geordi
 
 ### The undercard fights
 
-The night's undercard bouts featured some exciting moments and some skilled competitors. Kevin Johnson and Mike Hales squared off in the opening heavyweight match. With the help of his expertise, Johnson, a seasoned athlete, outboxed Hales to win the contest by unanimous vote.
+The night's undercard bouts featured some exciting moments and some skilled competitors. Kevin Johnson and Mike Hales squared off in the opening heavyweight match. With the help of his expertise, Johnson, a seasoned athlete, outboxed Hales to win the contest.
 
 In the second match, welterweight contenders Christopher Lovejoy and Antonio Zepeda squared off. Zepeda, a skilled boxer with a powerful jab, took charge of the battle right away and won by a unanimous decision in the end.
 
