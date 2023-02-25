@@ -12,8 +12,6 @@ caption = ""
 image = "/uploads/mayweather-event-3.jpg"
 
 +++
-F
-
 The much-anticipated battle between boxing great Floyd Mayweather Jr. and Geordie Shore star Aaron Chalmers took place on the Zeus Network on February 25, 2023. Kevin Johnson vs. Mike Hales, Antonio Zepeda vs. Christopher Lovejoy, J'Hon Ingram vs. Meeks Kastelo, and Ulysses Diaz vs. Khalas Karim were just a few of the action-packed undercard bouts at the event. Natalie Nunn and Tommie Lee, two reality television stars, squared off in a celebrity boxing fight as the evening's co-main event.
 
 The undercard fights
@@ -31,6 +29,8 @@ The Co-Main Event: Natalie Nunn vs Tommie Lee
 Natalie Nunn and Tommie Lee, two reality television stars, squared off in a celebrity boxing fight as the evening's co-main event. In the weeks building up to the fight, the two celebrities had been verbally abusing one another, and fans were curious to see who would win.
 
 Both fighters delivered powerful blows in the tightly contested contest. After a tense struggle, Nunn was ultimately declared the winner by a split vote.
+
+![](/uploads/mayweather-event-2.jpg)
 
 The Main Event: Mayweather vs Chalmers
 
