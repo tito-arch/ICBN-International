@@ -51,4 +51,4 @@ Youtube: **@**[**Fred Talks Fighting**](https://www.youtube.com/@fredtalksfighti
 
 Twitter:  **@**[**fredpdbeck**](https://twitter.com/fredpdbeck?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-Instagram: @[**Fred Talks Fighting**]()
+Instagram: @[**Fred Talks Fighting**](https://www.instagram.com/fred_talks_fighting/?hl=en)
