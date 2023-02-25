@@ -9,7 +9,7 @@ title = "Floyd Mayweather versus Aaron Chalmers main card highlights"
 [cover]
 alt = "bunnie abc"
 caption = ""
-image = ""
+image = "/uploads/mayweather-event-3.jpg"
 
 +++
 F
