@@ -38,7 +38,7 @@ Both fighters delivered powerful blows in the tightly contested contest. After a
 
 The highly anticipated fight between Floyd Mayweather Jr. and Aaron Chalmers served as the evening's main attraction. The fight featured Mayweather, widely regarded as the best boxer of all time, who had come out of retirement, and Chalmers, who was looking to make a statement in his first major boxing contest.
 
-zHGuXr1METk
+{{< youtube zHGuXr1METk >}}
 
 Both fighters wore 16-ounce gloves during the six-round exhibition battle. Mayweather took command right away, using his speed and footwork to evade Chalmers' attacks and deliver a number of powerful punches of his own.
 
