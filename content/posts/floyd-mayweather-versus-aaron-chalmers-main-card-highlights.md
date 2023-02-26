@@ -40,4 +40,4 @@ The highly anticipated fight between Floyd Mayweather Jr. and Aaron Chalmers ser
 
 Both fighters wore 16-ounce gloves during the six-round exhibition battle. Mayweather took command right away, using his speed and footwork to evade Chalmers' attacks and deliver a number of powerful punches of his own.
 
-Chalmers put forth a valiant effort but was eventually defeated by the legendary boxer who had never lost. Chalmers was knocked down repeatedly by Mayweather's clean shots to the head and torso of the Geordie Shore star. In the end, Mayweather was declared the winner after taking the fight by a unanimous vote.
+Chalmers put forth a valiant effort but was eventually defeated by the legendary boxer who had never lost. The bout was further extended to two more rounds which was umexpected since it was an exhibition bout. In the end, Mayweather was the obvious winner but it would also be considered a win for Chalmers since he went all full rounds with one of the greatest boxers.
