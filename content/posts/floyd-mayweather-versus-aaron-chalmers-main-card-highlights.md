@@ -30,6 +30,8 @@ Ulysses Diaz and Khalas Karim battled it out at welterweight in the fourth conte
 
 Natalie Nunn and Tommie Lee, two reality television stars, squared off in a celebrity boxing fight as the evening's co-main event. In the weeks building up to the fight, the two celebrities had been verbally abusing one another, and fans were curious to see who would win.
 
+Natalie Nunn became victorious after dominating the fight. Some boxing enthusiasts say this was a clear mismatch although it was an exhibition.
+
 {{< youtube zHGuXr1METk >}}
 
 ### The Main Event: Mayweather vs Chalmers
