@@ -11,11 +11,13 @@ caption = ""
 image = "/uploads/mayweather-event-3.jpg"
 
 +++
+# Mayweather versus Aaron Chalmers
+
 The much-anticipated battle between boxing great Floyd Mayweather Jr. and Geordie Shore star Aaron Chalmers took place on the Zeus Network on February 25, 2023. Kevin Johnson vs. Mike Hales, Antonio Zepeda vs. Christopher Lovejoy, J'Hon Ingram vs. Meeks Kastelo, and Ulysses Diaz vs. Khalas Karim were just a few of the action-packed undercard bouts at the event. Natalie Nunn and Tommie Lee, two reality television stars, squared off in a celebrity boxing fight as the evening's co-main event.
 
 ![](/uploads/mayweather-event-1.jpg)
 
-### The undercard fights
+## The undercard fights
 
 The night's undercard bouts featured some exciting moments and some skilled competitors. Kevin Johnson and Mike Hales squared off in the opening heavyweight match. With the help of his expertise, Johnson, a seasoned athlete, outboxed Hales to win the contest.
 
@@ -25,20 +27,24 @@ J'Hon Ingram competed against Meeks Kastelo in the third match on the undercard 
 
 Ulysses Diaz and Khalas Karim battled it out at welterweight in the fourth contest on the undercard. Using his better footwork and boxing abilities, Diaz outclassed Karim early on and won the bout by a unanimous decision.
 
-### The Co-Main Event: Natalie Nunn vs Tommie Lee
+## The Co-Main Event: Natalie Nunn vs Tommie Lee
 
 Natalie Nunn and Tommie Lee, two reality television stars, squared off in a celebrity boxing fight as the evening's co-main event. In the weeks building up to the fight, the two celebrities had been verbally abusing one another, and fans were curious to see who would win.
 
 Natalie Nunn became victorious after dominating the fight. Some boxing enthusiasts say this was a clear mismatch although it was an exhibition.
 
-{{< youtube tzeCjOpItUs >}}   
+### Tommiee Lee VS Natalie Nunn FULL FIGHT
 
-### The Main Event: Mayweather vs Chalmers
+{{< youtube tzeCjOpItUs >}}
+
+## The Main Event: Mayweather vs Chalmers
 
 The highly anticipated fight between Floyd Mayweather Jr. and Aaron Chalmers served as the evening's main attraction. The fight featured Mayweather, widely regarded as the best boxer of all time, who had come out of retirement, and Chalmers, who was looking to make a statement in his first major boxing contest.
+
+### HIGHLIGHTS | FLOYD MAYWEATHER HUMILIATES & BUSTS UP MMA FIGHTER | MAYWEATHER VS. CHALMERS RINGSIDE
 
 {{< youtube zHGuXr1METk >}}
 
 Both fighters wore 16-ounce gloves during the six-round exhibition battle. Mayweather took command right away, using his speed and footwork to evade Chalmers' attacks and deliver a number of powerful punches of his own.
 
-Chalmers put forth a valiant effort but was eventually defeated by the legendary boxer who had never lost. The bout was further extended to two more rounds which was umexpected since it was an exhibition bout. In the end, Mayweather was the obvious winner but it would also be considered a win for Chalmers since he went all full rounds with one of the greatest boxers.
+Chalmers put forth a valiant effort but was eventually defeated by the legendary boxer who had never lost. The bout was further extended to two more rounds which were unexpected since it was an exhibition bout. In the end, Mayweather was the obvious winner but it would also be considered a win for Chalmers since he went all full rounds with one of the greatest boxers.
