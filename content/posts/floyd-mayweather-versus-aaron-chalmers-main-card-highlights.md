@@ -32,7 +32,7 @@ Natalie Nunn and Tommie Lee, two reality television stars, squared off in a cele
 
 Natalie Nunn became victorious after dominating the fight. Some boxing enthusiasts say this was a clear mismatch although it was an exhibition.
 
-{{< youtube zHGuXr1METk >}}
+{{< youtube tzeCjOpItUs >}}   
 
 ### The Main Event: Mayweather vs Chalmers
 
