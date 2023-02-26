@@ -4,7 +4,7 @@ categories = "Breaking News"
 date = 2023-02-25T18:32:47Z
 description = "Main card highlights of Floyd Mayweather versus Aaron Chalmer'"
 draft = true
-tags = ["", ""]
+tags = ["Breaking news", "Upcoming fights"]
 title = "Floyd Mayweather versus Aaron Chalmers main card highlights"
 [cover]
 alt = "bunnie abc"
