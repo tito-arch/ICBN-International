@@ -25,7 +25,7 @@ A win against a bad opponent holds no weight ,an impressive win against a good o
 |     WW     	|  **YODELING HALEY**  	|       0 - 1 - 0 	|      15     	|      1     	|        8        	|        7       	|       1      	|      **32**     	|
 |     FW     	|     **AJ BUNKER**    	|       1 - 2 - 0 	|      13     	|      2     	|        6        	|        5       	|       5      	|      **32**     	|
 |     FW     	|   **FAITH ORDWAY**   	|       0 - 1 - 0 	|      14     	|      1     	|        8        	|        7       	|       1      	|      **31**     	|
-|     sww    	|      **ALAENA **     	|      1 - 0 - 0  	|      14     	|      5     	|        4        	|        4       	|       1      	|      **28**     	|
+|     sww    	|      **ALAENA**     	|      1 - 0 - 0  	|      14     	|      5     	|        4        	|        4       	|       1      	|      **28**     	|
 |     MW     	|     **ANNA BRON**    	|       1 - 0 - 0 	|      12     	|      5     	|        5        	|        3       	|       1      	|      **26**     	|
 |     WW     	| **LAURA PONTICORVO** 	|       1 - 0 - 0 	|      10     	|      5     	|        4        	|        3       	|       1      	|      **23**     	|
 |     BW     	|    **JUMANA KHAN**   	|       1 - 0 - 0 	|      6      	|      5     	|        3        	|        5       	|       1      	|      **20**     	|
