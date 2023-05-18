@@ -11,20 +11,6 @@
   a division of TRC.
 </span>
 
-<script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
-
-
-
 </footer>
 {{- end }}
 
@@ -37,6 +23,20 @@
 {{- end }}
 
 {{- partial "extend_footer.html" . }}
+
+<!-- Start of Netlify CMS -->
+<script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+<!-- Netlify CMS -->
 
 <script>
     let menu = document.getElementById('menu')
