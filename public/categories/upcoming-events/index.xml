@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Upcoming Events on ICBN</title>
+    <link>https://icbnews.net/categories/upcoming-events/</link>
+    <description>Recent content in Upcoming Events on ICBN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 08:34:12 +0000</lastBuildDate><atom:link href="https://icbnews.net/categories/upcoming-events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jake Paul and Tommy Fury fight update</title>
+      <link>https://icbnews.net/posts/jake-paul-and-tommy-fury-fight-update/</link>
+      <pubDate>Tue, 14 Feb 2023 08:34:12 +0000</pubDate>
+      
+      <guid>https://icbnews.net/posts/jake-paul-and-tommy-fury-fight-update/</guid>
+      <description>Jake Paul and Tommy Fury Set to Square Off in Diriyah, Saudi Arabia</description>
+    </item>
+    
+    <item>
+      <title>MISFITS X SERIES 005</title>
+      <link>https://icbnews.net/posts/misfits-x-series-005/</link>
+      <pubDate>Mon, 13 Feb 2023 19:49:37 +0000</pubDate>
+      
+      <guid>https://icbnews.net/posts/misfits-x-series-005/</guid>
+      <description>Misfits X Series 005 Boxing Event: A Night of Excitement and Intensity</description>
+    </item>
+    
+    <item>
+      <title>KSI VS JAKE PAUL</title>
+      <link>https://icbnews.net/posts/ksi-vs-jake-paul/</link>
+      <pubDate>Mon, 13 Feb 2023 18:54:36 +0000</pubDate>
+      
+      <guid>https://icbnews.net/posts/ksi-vs-jake-paul/</guid>
+      <description>KSI vs Jake Paul Set to Light Up Cardiff at the End of the Year</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,26 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ICBN</title>
-    <link>https://v1.icbn.bunnieabc.com/tags/</link>
+    <link>https://icbnews.net/tags/</link>
     <description>Recent content in Tags on ICBN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2023 10:40:28 +0000</lastBuildDate><atom:link href="https://v1.icbn.bunnieabc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 17:53:16 +0000</lastBuildDate><atom:link href="https://icbnews.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Genesis Post </title>
-      <link>https://v1.icbn.bunnieabc.com/tags/genesis-post/</link>
-      <pubDate>Sat, 11 Feb 2023 10:40:28 +0000</pubDate>
+      <title>Men P4P Rankings</title>
+      <link>https://icbnews.net/tags/men-p4p-rankings/</link>
+      <pubDate>Fri, 24 Feb 2023 17:53:16 +0000</pubDate>
       
-      <guid>https://v1.icbn.bunnieabc.com/tags/genesis-post/</guid>
+      <guid>https://icbnews.net/tags/men-p4p-rankings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P4P</title>
+      <link>https://icbnews.net/tags/p4p/</link>
+      <pubDate>Fri, 24 Feb 2023 17:53:16 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/p4p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rankings</title>
+      <link>https://icbnews.net/tags/rankings/</link>
+      <pubDate>Fri, 24 Feb 2023 17:53:16 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/rankings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://icbnews.net/tags/biography/</link>
+      <pubDate>Wed, 22 Feb 2023 05:35:30 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/biography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://icbnews.net/tags/history/</link>
+      <pubDate>Wed, 22 Feb 2023 05:35:30 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Most Valuable Promotion</title>
+      <link>https://icbnews.net/tags/most-valuable-promotion/</link>
+      <pubDate>Mon, 20 Feb 2023 18:45:53 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/most-valuable-promotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did you know</title>
+      <link>https://icbnews.net/tags/did-you-know/</link>
+      <pubDate>Sun, 19 Feb 2023 14:11:35 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/did-you-know/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Misfits</title>
-      <link>https://v1.icbn.bunnieabc.com/tags/misfits/</link>
+      <link>https://icbnews.net/tags/misfits/</link>
+      <pubDate>Sat, 18 Feb 2023 15:15:47 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/misfits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Tube boxing</title>
+      <link>https://icbnews.net/tags/you-tube-boxing/</link>
+      <pubDate>Sat, 18 Feb 2023 15:15:47 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/you-tube-boxing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking news</title>
+      <link>https://icbnews.net/tags/breaking-news/</link>
+      <pubDate>Fri, 17 Feb 2023 10:30:20 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/breaking-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drama</title>
+      <link>https://icbnews.net/tags/drama/</link>
+      <pubDate>Fri, 17 Feb 2023 10:30:20 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/drama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upcoming fights</title>
+      <link>https://icbnews.net/tags/upcoming-fights/</link>
+      <pubDate>Thu, 16 Feb 2023 05:55:17 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/upcoming-fights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women P4P</title>
+      <link>https://icbnews.net/tags/women-p4p/</link>
+      <pubDate>Wed, 15 Feb 2023 07:15:26 +0000</pubDate>
+      
+      <guid>https://icbnews.net/tags/women-p4p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genesis Post </title>
+      <link>https://icbnews.net/tags/genesis-post/</link>
       <pubDate>Sat, 11 Feb 2023 10:40:28 +0000</pubDate>
       
-      <guid>https://v1.icbn.bunnieabc.com/tags/misfits/</guid>
+      <guid>https://icbnews.net/tags/genesis-post/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Breaking News on ICBN</title>
+    <link>https://icbnews.net/categories/breaking-news/</link>
+    <description>Recent content in Breaking News on ICBN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Feb 2023 10:30:20 +0000</lastBuildDate><atom:link href="https://icbnews.net/categories/breaking-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THE DRAMA SURROUNDING KSI AND ANDREW TATE</title>
+      <link>https://icbnews.net/posts/the-drama-surrounding-ksi-and-andrew-tate/</link>
+      <pubDate>Fri, 17 Feb 2023 10:30:20 +0000</pubDate>
+      
+      <guid>https://icbnews.net/posts/the-drama-surrounding-ksi-and-andrew-tate/</guid>
+      <description>The recent drama between K.S.I and Andrew Tate explained extensively and the origin of it all</description>
+    </item>
+    
+    <item>
+      <title>W.B.C to rank Jake Paul officially</title>
+      <link>https://icbnews.net/posts/w.b.c-to-rank-jake-paul-officially/</link>
+      <pubDate>Thu, 16 Feb 2023 05:55:17 +0000</pubDate>
+      
+      <guid>https://icbnews.net/posts/w.b.c-to-rank-jake-paul-officially/</guid>
+      <description>W.B.C to officially rank Jake Paul in the cruiserweight division if he wins his latest fight</description>
+    </item>
+    
+  </channel>
+</rss>
