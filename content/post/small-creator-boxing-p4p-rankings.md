@@ -11,7 +11,7 @@ category: I.C.B.N Profiles
 author: ICBN
 ---
 ```
-          **HEAVYWEIGHT DIVISION**
+         **HEAVYWEIGHT DIVISION**
 ```
 
 |Placement|Name|Record|
@@ -27,7 +27,19 @@ author: ICBN
 |#9|Halfordsucks|0 - 0 - 1|
 |#10|Ethan Smith|0 - 0 - 1|
 
-                      **MIDDLEWEIGHT DIVISION**
+
+
+
+
+                                  **MIDDLEWEIGHT DIVISION**
+
+|Placement|Name|Record|
+|---|---|---|
+|#1|Antoni O'shea|1 - 0 - 0|
+|#2|Callum Kelly|1 - 0 - 2|
+|#3|Afro Samurai T|0 - 0 - 1|
+|#4|Chapel|0 - 0 - 1|
+|#5|Nycherius|0 - 0 - 2|
 
 
 
