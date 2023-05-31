@@ -28,17 +28,56 @@ author: ICBN
 |#10|Ethan Smith|0 - 0 - 1|
 
 ```
-                              **MIDDLEWEIGHT DIVISION**
+  **MIDDLEWEIGHT DIVISION**
 ```
 
 |Placement|Name|Record|
 |---|---|---|
 |#1|Antoni O'shea|1 - 0 - 0|
 |#2|Ben Wheeler|1 - 0 - 0|
-|#2|Callum Kelly|1 - 0 - 2|
-|#3|Afro Samurai T|0 - 0 - 1|
-|#4|Chapel|0 - 0 - 1|
-|#5|Nycherius|0 - 0 - 2|
+|#3|Callum Kelly|1 - 0 - 2|
+|#4|Afro Samurai T|0 - 0 - 1|
+|#5|Chapel|0 - 0 - 1|
+|#6|Nycherius|0 - 0 - 2|
+
+                 **LIGHTWEIGHT DIVISION** 
+
+|Placement|Name|Record|
+|---|---|---|
+|#1|Fez|3 - 0 - 1|
+|#2|Evan Mills|2 - 0 - 1|
+|#3|Aaron the carrot|1 - 0 - 0|
+|#4|Tolbzter|0 - 0 - 1|
+|#5|Royalty Boxing|0 - 0 - 1|
+
+                **CRUISERWEIGHT DIVISION** 
+
+|Placement|Name|Record|
+|---|---|---|
+|#1|Dan Talks Fighting|2 - 0 - 1|
+|#2|Pepper Papi|1 - 0 - 0|
+|#3|Callum Hodgkiss|0 - 0 - 1|
+|#4|Tatakai Kawakami|0 - 0 - 1|
+
+                 **FEATHERWEIGHT DIVISION** 
+
+|Placement|Name|Record|
+|---|---|---|
+|#1|Ant mills|5 - 0 - 1|
+|#2|Logan Hallam|2 - 0 - 2|
+|#3|Finn Mc Gyre|0 - 0 - 1|
+
+                 **LIGHT-HEAVYWEIGHT DIVISION**
+
+
+
+
+
+|Placement|Name|Record|
+|---|---|---|
+|#1|Pat Typloosion|2 - 0 - 2|
+|#2|Ran|0 - 1 - 1|
+|#3|Vopfy|0 - 0 - 1|
 
 
 
