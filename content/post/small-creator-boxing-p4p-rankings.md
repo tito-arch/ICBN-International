@@ -6,12 +6,12 @@ description: >-
   I.C.B.N P4P ranking promotes transparency by presenting the boxers record.
 
   Our rankings are based on performance 100% on performance. As the small creator boxing scene grows there will be more definition in the rankings.
-cover-photo: /uploads/youtube-vs-tiktok-fight-results-ftr_12v044w4hlqrk1aph8mq1sgjxc-png.webp
+cover-photo: /uploads/img_20230320_191931.jpg
 category: I.C.B.N Profiles
 author: ICBN
 ---
 ```
-         **HEAVYWEIGHT DIVISION**
+       **HEAVYWEIGHT DIVISION**
 ```
 
 |Placement|Name|Record|
@@ -28,7 +28,7 @@ author: ICBN
 |#10|Ethan Smith|0 - 0 - 1|
 
 ```
-  **MIDDLEWEIGHT DIVISION**
+      **MIDDLEWEIGHT DIVISION**
 ```
 
 |Placement|Name|Record|
@@ -40,7 +40,9 @@ author: ICBN
 |#5|Chapel|0 - 0 - 1|
 |#6|Nycherius|0 - 0 - 2|
 
-                 **LIGHTWEIGHT DIVISION** 
+```
+      **LIGHTWEIGHT DIVISION** 
+```
 
 |Placement|Name|Record|
 |---|---|---|
@@ -50,7 +52,9 @@ author: ICBN
 |#4|Tolbzter|0 - 0 - 1|
 |#5|Royalty Boxing|0 - 0 - 1|
 
-                **CRUISERWEIGHT DIVISION** 
+```
+      **CRUISERWEIGHT DIVISION** 
+```
 
 |Placement|Name|Record|
 |---|---|---|
@@ -59,7 +63,9 @@ author: ICBN
 |#3|Callum Hodgkiss|0 - 0 - 1|
 |#4|Tatakai Kawakami|0 - 0 - 1|
 
-                 **FEATHERWEIGHT DIVISION** 
+```
+       **FEATHERWEIGHT DIVISION** 
+```
 
 |Placement|Name|Record|
 |---|---|---|
@@ -67,11 +73,9 @@ author: ICBN
 |#2|Logan Hallam|2 - 0 - 2|
 |#3|Finn Mc Gyre|0 - 0 - 1|
 
-                 **LIGHT-HEAVYWEIGHT DIVISION**
-
-
-
-
+```
+       **LIGHT-HEAVYWEIGHT DIVISION**
+```
 
 |Placement|Name|Record|
 |---|---|---|
