@@ -6,7 +6,7 @@ draft: true
 description: Get an in-depth analysis of the top men's P4P small creator boxers
   and their performance in various weight classes. Rankings based on records.
 cover-photo: /uploads/img_20230320_191931.jpg
-category: I.C.B.N Profiles
+category: Beginner's guide
 author: ICBN
 ---
 ```I.C.B.N
