@@ -5,7 +5,7 @@ date: 2023-05-30T22:58:47.394-07:00
 draft: false
 description: Get an in-depth analysis of the top men's P4P small creator boxers
   and their performance in various weight classes. Rankings based on records.
-cover-photo: /uploads/img_20230320_191931.jpg
+cover-photo: /uploads/tata.kai.fighting-20230607-0001.jpg
 category: Beginner's guide
 author: ICBN
 ---
