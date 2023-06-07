@@ -37,7 +37,8 @@ author: ICBN
 |#3|Callum Kelly|1 - 0 - 2|
 |#4|Afro Samurai T|0 - 0 - 1|
 |#5|Chapel|0 - 0 - 1|
-|#6|Nycherius|0 - 0 - 2|
+|#6|Vopfy|0 - 0 - 1|
+|#7|Nycherius|0 - 0 - 2|
 
 ```
       **LIGHTWEIGHT DIVISION** 
@@ -76,11 +77,10 @@ author: ICBN
        **LIGHT-HEAVYWEIGHT DIVISION**
 ```
 
-|Placement|Name|Record|
-|---|---|---|
-|#1|Pat Typloosion|2 - 0 - 2|
-|#2|Ran|0 - 1 - 1|
-|#3|Vopfy|0 - 0 - 1|
+|Placement| |Record| |
+|---|---|---|---|
+|#1|Pat Typloosion|2 - 0 - 2| |
+|#2|Ran|0 - 1 - 1| |
 
 
 
