@@ -6,7 +6,7 @@ description: Get an in-depth analysis of the top men's P4P small creator boxers 
 cover:
   alt: "bunnie abc"
   caption: ""
-  image: "/uploads/ksi-and-andrew-tate.jpg"
+  image: "/uploads/small-creator-boxing.jpg"
 category: Beginner's guide
 author: ICBN
 ---
