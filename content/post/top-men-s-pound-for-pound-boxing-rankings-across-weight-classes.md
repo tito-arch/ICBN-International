@@ -30,19 +30,19 @@ P4P TOP 15 RANKINGS
 |---|---|---|---|
 |#1|JAKE PAUL|7 - 0 - 1|W-W-W-W-L|
 |#2|KSI|5 - 0 - 1|W-W-W-W-NC|
-|#3|ANESON GIB|5 - 1 - 0| |
-|#4|ANTHONY TAYLOR|4 - 6 - 2| |
-|#5|DEEN THE GREAT|3 - 0 - 0| |
-|#6|WALID SHARKS|2 - 1 - 1| |
-|#7|WHINDERSSON NUNES|2 - 0 - 1| |
-|#8|LE'VEON BELL|2 - 1 - 0| |
-|#9|SALT PAPI|3 - 1 - 0| |
-|#10|KING KENNY|3 - 2 - 0| |
-|#11|FAZE SENSEI|1 - 1 - 0| |
-|#12|JARVIS|2 - 0 - 0| |
-|#13|ADAM SALEH|3 - 0 - 2| |
-|#14|LANDON MCBROOM|1 - 0 - 1| |
-|#15|SLIM|6 - 0 - 0| |
+|#3|ANESON GIB|5 - 1 - 0|W-L-W-W-W|
+|#4|ANTHONY TAYLOR|4 - 6 - 2|L-D-W-D-L|
+|#5|DEEN THE GREAT|3 - 0 - 0|W-W-W|
+|#6|WALID SHARKS|2 - 1 - 1|D-L-W-W|
+|#7|WHINDERSSON NUNES|2 - 0 - 1|W-D-W|
+|#8|LE'VEON BELL|2 - 1 - 0|W-L-W|
+|#9|SALT PAPI|3 - 1 - 0|W-W-W-L|
+|#10|KING KENNY|3 - 2 - 0|L-W-W=L-W|
+|#11|FAZE SENSEI|1 - 1 - 0|W-L|
+|#12|JARVIS|2 - 0 - 0|W-W|
+|#13|ADAM SALEH|3 - 0 - 2|W-D-W-D-W|
+|#14|LANDON MCBROOM|1 - 0 - 1|W-D|
+|#15|SLIM|6 - 0 - 0|W-W-W-W-W|
 
 
 
