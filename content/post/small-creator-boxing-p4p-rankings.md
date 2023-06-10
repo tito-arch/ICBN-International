@@ -1,12 +1,15 @@
 ---
-title: "Top Men's Pound-for-Pound small creator Boxing Rankings: Across Weight Classes."
+title: "Top Men's Pound-for-Pound small creator Boxing Rankings: Across Weight
+  Classes."
 date: 2023-05-30T22:58:47.394-07:00
 draft: false
-description: Get an in-depth analysis of the top men's P4P small creator boxers and their performance in various weight classes. Rankings based on records.
+description: Get an in-depth analysis of the top men's P4P small creator boxers
+  and their performance in various weight classes. Rankings based on records.
 cover:
-  alt: "bunnie abc"
+  alt: bunnie abc
   caption: ""
-  image: "/uploads/small-creator-boxing.jpg"
+  image: /uploads/small-creator-boxing.jpg
+cover-photo: bunnie abc
 category: Beginner's guide
 author: ICBN
 ---
@@ -14,16 +17,16 @@ author: ICBN
 
 |Placement|Name|Record|
 |---|---|---|
-|#1|Cowboy stew|3 - 0 - 2|
+|#1|Cowboy stew|3 - 2 - 0|
 |#2|Badboy Beaman|1 - 0 - 0|
 |#3|Brandon Anthony Straight|1 - 0 - 0|
 |#4|Tommy Pinkerton|1 - 0 - 0|
-|#5|Anton Bell|1 - 0 - 1|
-|#6|Maui Raidal|1 - 0 - 1|
-|#7|Jay ST|0 - 0 - 1|
-|#8|Lezra Gomez|0 - 0 - 1|
-|#9|Halfordsucks|0 - 0 - 1|
-|#10|Ethan Smith|0 - 0 - 1|
+|#5|Anton Bell|1 - 1 - 0|
+|#6|Maui Raidal|1 - 1 - 0|
+|#7|Jay ST|0 - 1 - 0|
+|#8|Lezra Gomez|0 - 1 - 0|
+|#9|Halfordsucks|0 - 1 - 0|
+|#10|Ethan Smith|0 - 1 - 0|
 
 ## MIDDLEWEIGHT DIVISION
 
@@ -31,30 +34,30 @@ author: ICBN
 |---|---|---|
 |#1|Antoni O'shea|1 - 0 - 0|
 |#2|Ben Wheeler|1 - 0 - 0|
-|#3|Callum Kelly|1 - 0 - 2|
-|#4|Afro Samurai T|0 - 0 - 1|
-|#5|Chapel|0 - 0 - 1|
+|#3|Callum Kelly|1 - 2 - 0|
+|#4|Afro Samurai T|0 - 1 - 0|
+|#5|Chapel|0 - 1 - 0|
 |#6|Vopfy|0 - 0 - 1|
-|#7|Nycherius|0 - 0 - 2|
+|#7|Nycherius|0 - 2 - 0|
 
 ## LIGHTWEIGHT DIVISION
 
 |Placement|Name|Record|
 |---|---|---|
-|#1|Fez|3 - 0 - 1|
-|#2|Evan Mills|2 - 0 - 1|
+|#1|Fez|3 - 1 - 0|
+|#2|Evan Mills|2 - 1 - 0|
 |#3|Aaron the carrot|1 - 0 - 0|
-|#4|Tolbzter|0 - 0 - 1|
-|#5|Royalty Boxing|0 - 0 - 1|
+|#4|Tolbzter|0 - 1 - 0|
+|#5|Royalty Boxing|0 - 1 - 0|
 
 ## CRUISERWEIGHT DIVISION
 
 |Placement|Name|Record|
 |---|---|---|
-|#1|Dan Talks Fighting|2 - 0 - 1|
+|#1|Dan Talks Fighting|2 - 1 - 0|
 |#2|Pepper Papi|1 - 0 - 0|
-|#3|Callum Hodgkiss|0 - 0 - 1|
-|#4|Tatakai Kawakami|0 - 0 - 1|
+|#3|Callum Hodgkiss|0 - 1 - 0|
+|#4|Tatakai Kawakami|0 - 1 - 0|
 
 ## FEATHERWEIGHT DIVISION
 
@@ -66,14 +69,10 @@ author: ICBN
 
 ## LIGHT-HEAVYWEIGHT DIVISION
 
-|Placement|﻿<br />|Record|﻿<br />|
-|---|---|---|---|
-|#1|Pat Typloosion|2 - 0 - 2|﻿<br />|
-|#2|Ran|0 - 1 - 1|﻿<br />|
-
-
-
-
+|Placement|﻿Name|Record|
+|---|---|---|
+|#1|Pat Typloosion|2 - 2 - 0|
+|#2|Ran|0 - 1 - 1|
 
 
 
