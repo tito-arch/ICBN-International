@@ -47,3 +47,28 @@ P4P TOP 15 RANKINGS
 
 
 
+
+SUPER MIDDLEWEIGHT RANKINGS
+
+
+
+
+
+|PLACEMENT|NAME|RECORD|FORM|
+|---|---|---|---|
+|#1|WHINDERSSON NUNES|2 - 0 - 1| |
+|#2|JARVIS|2 - 0 - 0| |
+|#3|OJ ROSE|1 - 0 - 0| |
+|#4|AUSTIN MCBROOM|2 - 0 - 1| |
+|#5|JAY SWINGLER|2 - 0 - 1| |
+|#6|ALEX WASSABI|2 - 0 - 1| |
+|#7|KIMBO SLICE JR|2 - 0 - 1| |
+|#8|FILIPEK|2 - 0 - 1| |
+|#9|IDUBZZZ|2 - 0 - 1| |
+|#10|BRYCE HALL|2 - 0 - 1| |
+|#11|ZACH BERNARDEZ|2 - 0 - 1| |
+|#12|CHERDLYS|2 - 0 - 1| |
+
+
+
+
