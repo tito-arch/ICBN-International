@@ -2,10 +2,11 @@
 title: "Top Men's Pound-for-Pound small creator Boxing Rankings: Across Weight
   Classes."
 date: 2023-05-30T22:58:47.394-07:00
-draft: true
+draft: false
 description: Get an in-depth analysis of the top men's P4P small creator boxers
   and their performance in various weight classes. Rankings based on records.
-image: "/uploads/small-creator-boxing.jpeg"
+image: /uploads/small-creator-boxing.jpeg
+cover-photo: bunnie abc
 category: Beginner's guide
 author: ICBN
 ---
