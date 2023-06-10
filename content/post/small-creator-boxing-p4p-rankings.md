@@ -35,9 +35,9 @@ author: ICBN
 |#1|Antoni O'shea|1 - 0 - 0|
 |#2|Ben Wheeler|1 - 0 - 0|
 |#3|Callum Kelly|1 - 2 - 0|
-|#4|Afro Samurai T|0 - 1 - 0|
-|#5|Chapel|0 - 1 - 0|
-|#6|Vopfy|0 - 0 - 1|
+|#4|Vopfy|0 - 0 - 1|
+|#5|Afro Samurai T|0 - 1 - 0|
+|#6|Chapel|0 - 1 - 0|
 |#7|Nycherius|0 - 2 - 0|
 
 ## LIGHTWEIGHT DIVISION
