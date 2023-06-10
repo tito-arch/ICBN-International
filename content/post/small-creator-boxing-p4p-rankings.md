@@ -10,14 +10,12 @@ cover-photo: bunnie abc
 category: Beginner's guide
 author: ICBN
 ---
-```I.C.B.N P4P ranking promotes transparency . Our rankings are based on performance 100%
-       **HEAVYWEIGHT DIVISION**
-```
+## HEAVYWEIGHT DIVISION
 
 |Placement|Name|Record|
 |---|---|---|
 |#1|Cowboy stew|3 - 0 - 2|
-|#2|Badboy beaman|1 - 0 - 0|
+|#2|Badboy Beaman|1 - 0 - 0|
 |#3|Brandon Anthony Straight|1 - 0 - 0|
 |#4|Tommy Pinkerton|1 - 0 - 0|
 |#5|Anton Bell|1 - 0 - 1|
@@ -27,9 +25,7 @@ author: ICBN
 |#9|Halfordsucks|0 - 0 - 1|
 |#10|Ethan Smith|0 - 0 - 1|
 
-```
-      **MIDDLEWEIGHT DIVISION**
-```
+## MIDDLEWEIGHT DIVISION
 
 |Placement|Name|Record|
 |---|---|---|
@@ -41,9 +37,7 @@ author: ICBN
 |#6|Vopfy|0 - 0 - 1|
 |#7|Nycherius|0 - 0 - 2|
 
-```
-      **LIGHTWEIGHT DIVISION** 
-```
+## LIGHTWEIGHT DIVISION
 
 |Placement|Name|Record|
 |---|---|---|
@@ -53,9 +47,7 @@ author: ICBN
 |#4|Tolbzter|0 - 0 - 1|
 |#5|Royalty Boxing|0 - 0 - 1|
 
-```
-      **CRUISERWEIGHT DIVISION** 
-```
+## CRUISERWEIGHT DIVISION
 
 |Placement|Name|Record|
 |---|---|---|
@@ -64,9 +56,7 @@ author: ICBN
 |#3|Callum Hodgkiss|0 - 0 - 1|
 |#4|Tatakai Kawakami|0 - 0 - 1|
 
-```
-       **FEATHERWEIGHT DIVISION** 
-```
+## FEATHERWEIGHT DIVISION
 
 |Placement|Name|Record|
 |---|---|---|
@@ -74,14 +64,16 @@ author: ICBN
 |#2|Logan Hallam|2 - 0 - 2|
 |#3|Finn Mc Gyre|0 - 0 - 1|
 
-```
-       **LIGHT-HEAVYWEIGHT DIVISION**
-```
+## LIGHT-HEAVYWEIGHT DIVISION
 
-|Placement| |Record| |
+|Placement|﻿<br />|Record|﻿<br />|
 |---|---|---|---|
-|#1|Pat Typloosion|2 - 0 - 2| |
-|#2|Ran|0 - 1 - 1| |
+|#1|Pat Typloosion|2 - 0 - 2|﻿<br />|
+|#2|Ran|0 - 1 - 1|﻿<br />|
+
+
+
+
 
 
 
