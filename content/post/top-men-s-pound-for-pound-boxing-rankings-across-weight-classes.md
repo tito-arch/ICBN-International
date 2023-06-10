@@ -26,27 +26,23 @@ A win against a bad opponent holds no weight ,an impressive win against a good o
 
 P4P TOP 15 RANKINGS
 
-
-
-
-
 |PLACEMENT|NAME|RECORD|FORM|
 |---|---|---|---|
 |#1|JAKE PAUL|7 - 0 - 1|W-W-W-W-L|
 |#2|KSI|5 - 0 - 1|W-W-W-W-NC|
-|#3|ANESON GIB| | |
-|#4|ANTHONY TAYLOR| | |
-|#5|DEEN THE GREAT| | |
-|#6|WALID SHARKS| | |
-|#7|WHINDERSSON NUNES| | |
-|#8|LE'VEON BELL| | |
-|#9|SALT PAPI| | |
-|#10|KING KENNY| | |
-|#11|FAZE SENSEI| | |
-|#12|JARVIS| | |
-|#13|ADAM SALEH| | |
-|#14|LANDON MCBROOM| | |
-|#15|SLIM| | |
+|#3|ANESON GIB|5 - 1 - 0| |
+|#4|ANTHONY TAYLOR|4 - 6 - 2| |
+|#5|DEEN THE GREAT|3 - 0 - 0| |
+|#6|WALID SHARKS|2 - 1 - 1| |
+|#7|WHINDERSSON NUNES|2 - 0 - 1| |
+|#8|LE'VEON BELL|2 - 1 - 0| |
+|#9|SALT PAPI|3 - 1 - 0| |
+|#10|KING KENNY|3 - 2 - 0| |
+|#11|FAZE SENSEI|1 - 1 - 0| |
+|#12|JARVIS|2 - 0 - 0| |
+|#13|ADAM SALEH|3 - 0 - 2| |
+|#14|LANDON MCBROOM|1 - 0 - 1| |
+|#15|SLIM|6 - 0 - 0| |
 
 
 
