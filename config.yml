@@ -20,20 +20,34 @@ Params:
     url: https://github.com/tito-arch
   - name: linkedin
     url: https://www.linkedin.com/company/bunnie-abc/
+
 menu:
   main:
-  - url: https://icbnews.net/tags/rankings/
+  - identifier: Beginner's guide
+    name: Beginner's guide
+    url: "/categories/beginners-guide/"
+    weight: 10
+  - identifier: Breaking News
+    name: Breaking News
+    url: "/categories/breaking-news/"
+    weight: 20
+  - identifier: Fight News
+    name: Fight News
+    url: "/categories/fight-news/"
+    weight: 30  
+  - identifier: I.C.B.N Profiles
+    name: I.C.B.N Profiles
+    url: "/categories/i.c.b.n-profiles/"
+    weight: 40  
+  - identifier: Upcoming Events
+    name: Upcoming Events
+    url: "/categories/upcoming-events/"
+    weight: 50   
+  - identifier: Rankings
     name: Rankings
-    weight: 5
-  - url: "/archives/"
-    name: Archives
-    weight: 3
-    identifier: archives
-  - url: "/tags/"
-    name: Tags
-    weight: 2
-    identifier: tags
-  - url: "/categories/"
-    name: Categories
-    weight: 1
-    identifier: categories
+    url: "/rankings/"
+    weight: 60     
+  - identifier: About Us
+    name: About Us
+    url: "/about/"
+    weight: 70         
