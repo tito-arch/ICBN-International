@@ -8,7 +8,7 @@ cover-photo: /uploads/ksi-vs-tommy-fury.jpg
 category: Upcoming Events
 author: ICBN
 ---
-In the world of combat sports, there are few events that generate as much anticipation and excitement as a crossover fight between a professional boxer and a prominent YouTuber. Such is the case with the upcoming showdown between British YouTube sensation KSI and professional boxer Tommy Fury. With the fight scheduled for 8 rounds and a weight limit of 180 pounds, fans are eagerly awaiting this clash of titans.
+In the world of combat sports, there are few events that generate as much anticipation and excitement as a crossover fight between a professional boxer and a prominent YouTuber with the exception of the Paul brothers. Such is the case with the upcoming showdown between British YouTube sensation KSI and professional boxer Tommy Fury. With the fight scheduled for 8 rounds and a weight limit of 180 pounds, this fight is predicted to be one of the biggest boxing fights in 2023 that will beheld in the United Kingdom.
 
 KSI, whose real name is Olajide Olatunji, rose to fame through his entertaining and often humorous YouTube videos. However, he stepped into the boxing ring in recent years, engaging in high-profile matches against other YouTube stars and professional fighters like Luis Alcaraz Pineda. KSI's bouts against Paul garnered significant attention and showcased his dedication to the sport. This time, he is taking on a more seasoned opponent in the form of Tommy Fury.
 
