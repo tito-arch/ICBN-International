@@ -1,17 +1,20 @@
-+++
-author = "Alex M.M"
-categories = "Breaking News"
-date = 2023-02-25T18:32:47Z
-description = "Main card highlights of Floyd Mayweather versus Aaron Chalmer'"
-draft = true
-tags = ["Breaking news", "Upcoming fights"]
-title = "Floyd Mayweather versus Aaron Chalmers main card highlights"
-[cover]
-alt = "bunnie abc"
-caption = ""
-image = "/uploads/mayweather-event-3.jpg"
-
-+++
+---
+author: Alex.M.M
+categories: Breaking News
+title: Floyd Mayweather versus Aaron Chalmers main card highlights
+date: 2023-02-25T18:32:47.000Z
+draft: false
+description: Main card highlights of Floyd Mayweather versus Aaron Chalmer'
+tags:
+  - Breaking news
+  - Upcoming fights
+cover:
+  alt: bunnie abc
+  caption: ""
+  image: /uploads/mayweather-event-3.jpg
+cover-photo: bunnie abc
+category: Fight News
+---
 # Mayweather versus Aaron Chalmers
 
 The much-anticipated battle between boxing great Floyd Mayweather Jr. and Geordie Shore star Aaron Chalmers took place on the Zeus Network on February 25, 2023. Kevin Johnson vs. Mike Hales, Antonio Zepeda vs. Christopher Lovejoy, J'Hon Ingram vs. Meeks Kastelo, and Ulysses Diaz vs. Khalas Karim were just a few of the action-packed undercard bouts at the event. Natalie Nunn and Tommie Lee, two reality television stars, squared off in a celebrity boxing fight as the evening's co-main event.
