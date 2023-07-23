@@ -11,7 +11,7 @@ cover:
   alt: bunnie abc
   caption: ""
   image: /uploads/img_20230215_180950.jpg
-draft: true
+draft: false
 cover-photo: bunnie abc
 category: Beginner's guide
 ---
