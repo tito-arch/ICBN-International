@@ -12,11 +12,11 @@ This year is action packed with alot of crossover boxing events happening all ov
 
 - **Joshua VS Ngannou**
 
-Expected to be one of the most anticipated card for both traditional boxing and MMA fans. These two fighters are known for their huge knockout power which makes this a must tune in event. 
+Expected to be one of the most anticipated card for both traditional boxing and MMA fans. These two fighters are known for their huge knockout power which makes this a must tune in event.
 
-Venue:
+Venue:Kingdom Arena, Riyadh
 
-Date:
+Date:Friday March 8th
 
 - **UCC 2**
 - **Hype boxing 1**
