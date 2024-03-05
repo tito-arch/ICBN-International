@@ -29,6 +29,14 @@ Venue:Tampa, Florida
 Date: March 16th
 
 - **Misfits x DAZN: X-Series 013**
+
+This event is part of a successful franchise by DAZN and Misfits boxing which has seen the rise of various stars like the main event in this card.
+
+![](https://pbs.twimg.com/media/GHhJLk5aYAAWdgS?format=jpg&name=small)
+
+
+
+
 - **Briggs VS Jackson**
 - **La Velada Del Ano 4**
 - **Social Knockout 3**
