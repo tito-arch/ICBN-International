@@ -11,6 +11,13 @@ author: ICBN
 This year is action packed with alot of crossover boxing events happening all over the globe. Here are some of the events to expect in the up coming months
 
 - **Joshua VS Ngannou**
+
+Expected to be one of the most anticipated card for both traditional boxing and MMA fans. These two fighters are known for their huge knockout power which makes this a must tune in event. 
+
+Venue:
+
+Date:
+
 - **UCC 2**
 - **Hype boxing 1**
 - **Misfits x DAZN: X-Series 013**
