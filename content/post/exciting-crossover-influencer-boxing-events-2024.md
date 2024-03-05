@@ -30,12 +30,13 @@ Date: March 16th
 
 - **Misfits x DAZN: X-Series 013**
 
-This event is part of a successful franchise by DAZN and Misfits boxing which has seen the rise of various stars like the main event in this card.
+This event is part of a successful franchise by DAZN and Misfits boxing which has seen the rise of various stars like the main event in this card. This card is expected to be action filled from start to finish.
 
 ![](https://pbs.twimg.com/media/GHhJLk5aYAAWdgS?format=jpg&name=small)
 
+Venue:Nashville , TN
 
-
+Date:March 23rd
 
 - **Briggs VS Jackson**
 - **La Velada Del Ano 4**
