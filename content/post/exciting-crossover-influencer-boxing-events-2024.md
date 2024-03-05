@@ -39,6 +39,8 @@ Venue:Nashville , TN
 Date:March 23rd
 
 - **Briggs VS Jackson**
+
+![](https://pbs.twimg.com/media/F9huy1FXMAA06BI?format=jpg&name=small)
 - **La Velada Del Ano 4**
 - **Social Knockout 3**
 
