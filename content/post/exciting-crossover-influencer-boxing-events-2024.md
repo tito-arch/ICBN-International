@@ -4,7 +4,7 @@ date: 2024-03-05T14:34:22.737
 draft: true
 description: These are some of the confirmed crossover boxing events to look
   forward for in 2024,starting the month of March.
-cover-photo: bunnie abc
+cover-photo: /uploads/youtube-vs-tiktok-fight-results-ftr_12v044w4hlqrk1aph8mq1sgjxc-png.webp
 category: Upcoming Events
 author: ICBN
 ---
