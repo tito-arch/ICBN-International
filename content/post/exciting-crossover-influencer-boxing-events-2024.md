@@ -19,8 +19,15 @@ Venue:Kingdom Arena, Riyadh
 
 Date:Friday March 8th
 
-- **UCC 2**
 - **Hype boxing 1**
+
+This event has one of the best crossover boxers Hasim Rahman Jr as the main event and some of the upcoming influencer boxers like Not Logan Paul. The unpredictability of this event makes it more unique to others by far.
+
+![](https://pbs.twimg.com/media/GH3f-08X0AAUw6X?format=jpg&name=small)
+Venue:Tampa, Florida
+
+Date: March 16th
+
 - **Misfits x DAZN: X-Series 013**
 - **Briggs VS Jackson**
 - **La Velada Del Ano 4**
