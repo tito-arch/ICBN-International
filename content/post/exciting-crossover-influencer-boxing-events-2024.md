@@ -14,6 +14,7 @@ This year is action packed with alot of crossover boxing events happening all ov
 
 Expected to be one of the most anticipated card for both traditional boxing and MMA fans. These two fighters are known for their huge knockout power which makes this a must tune in event.
 
+![](https://pbs.twimg.com/media/GHXChzEWcAAO_m_?format=jpg&name=small)
 Venue:Kingdom Arena, Riyadh
 
 Date:Friday March 8th
