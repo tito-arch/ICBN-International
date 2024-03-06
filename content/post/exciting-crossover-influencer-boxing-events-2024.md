@@ -45,3 +45,7 @@ This card is most definitely unique in its making due to a never seen before 10 
 
 
 
+
+Venue:Santiago Bernabeu Stadium, Spain.
+
+Date:July 13th.
