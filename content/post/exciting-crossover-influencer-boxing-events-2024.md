@@ -46,3 +46,5 @@ This card is most definitely unique in its making due to a never seen before 10 
 Venue:Santiago Bernabeu Stadium, Spain.
 
 Date:July 13th.
+
+In conclusion, these confirmed cards are definitely going to be highlight makers in 2024. Talk to us on all our socials and tell us which event you will be looking forward for.
