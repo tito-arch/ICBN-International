@@ -8,7 +8,7 @@ cover-photo: /uploads/youtube-vs-tiktok-fight-results-ftr_12v044w4hlqrk1aph8mq1s
 category: Upcoming Events
 author: ICBN
 ---
-This year is action packed with alot of crossover boxing events happening all over the globe. Here are some of the events to expect in the up coming months
+`Get ready for a year filled with thrilling crossover boxing events taking place worldwide. Here's a preview of what to expect in the upcoming months.`
 
 - **Joshua VS Ngannou**
 
