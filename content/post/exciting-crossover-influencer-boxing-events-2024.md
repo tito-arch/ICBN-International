@@ -40,6 +40,8 @@ Date:March 23rd
 
 - **La Velada Del Ano 4**
 
-This card is most definitely unique in its making due to a never seen before 10 man boxing match and a ladies tag team match wich was initially introduced to the sport by Misfits boxing .This event is expected to have the biggest stars in spain
+This card is most definitely unique in its making due to a never seen before 10 man boxing match and a ladies tag team match wich was initially introduced to the sport by Misfits boxing .This event is expected to have the biggest stars in spain. The main event for this card will be Yosoyplex VS Elmariann
 
-![](https://pbs.twimg.com/media/GH25KKvXoAAhKgi?format=jpg&name=small)
+
+
+
