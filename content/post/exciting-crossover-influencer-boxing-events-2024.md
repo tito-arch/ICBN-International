@@ -47,4 +47,4 @@ Venue:Santiago Bernabeu Stadium, Spain.
 
 Date:July 13th.
 
-In conclusion, these confirmed cards are poised to be standout highlights of 2024. Connect with us on all our social media platforms and share which event you're most excited about."
+In conclusion, these confirmed cards are poised to be standout highlights of 2024. Connect with us on all our social media platforms and share which event you're most excited about.
