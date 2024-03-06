@@ -14,6 +14,7 @@ author: ICBN
 
 Expected to be one of the most anticipated card for both traditional boxing and MMA fans. These two fighters are known for their huge knockout power which makes this a must tune in event.
 
+![](https://pbs.twimg.com/media/GH6uie_XgAACfpo?format=png&name=small)
 Venue:Kingdom Arena, Riyadh
 
 Date:Friday March 8th
