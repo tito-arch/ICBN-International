@@ -1,6 +1,6 @@
 ---
 title: 2024's confirmed Crossover and Influencer Boxing Events.
-date: 2024-03-05T14:34:22.737
+date: 2024-03-06T10:20:55.064+03:00
 draft: true
 description: Get ready for an exciting lineup of confirmed crossover boxing
   events starting in March 2024.
