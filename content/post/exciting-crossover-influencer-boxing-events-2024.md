@@ -14,7 +14,6 @@ author: ICBN
 
 Expected to be one of the most anticipated card for both traditional boxing and MMA fans. These two fighters are known for their huge knockout power which makes this a must tune in event.
 
-![](https://pbs.twimg.com/media/GHXChzEWcAAO_m_?format=jpg&name=small)
 Venue:Kingdom Arena, Riyadh
 
 Date:Friday March 8th
@@ -47,4 +46,4 @@ Venue:Santiago Bernabeu Stadium, Spain.
 
 Date:July 13th.
 
-In conclusion, these confirmed cards are definitely going to be highlight makers in 2024. Talk to us on all our socials and tell us which event you will be looking forward for.
+In conclusion, these confirmed cards are poised to be standout highlights of 2024. Connect with us on all our social media platforms and share which event you're most excited about."
