@@ -4,7 +4,7 @@ date: 2024-03-06T10:20:55.064+03:00
 draft: true
 description: Get ready for an exciting lineup of confirmed crossover boxing
   events starting in March 2024.
-cover-photo: /uploads/youtube-vs-tiktok-fight-results-ftr_12v044w4hlqrk1aph8mq1sgjxc-png.webp
+cover-photo: /uploads/icbn.jpg
 category: Upcoming Events
 author: ICBN
 ---
