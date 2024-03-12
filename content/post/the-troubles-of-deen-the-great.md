@@ -1,5 +1,5 @@
 ---
-title: The troubles of Deen The Great
+title: "Deen The Great's Turmoil: Navigating the Controversy and Drama"
 date: 2024-03-12T09:44:48.185+03:00
 draft: true
 description: "Breaking Down the Latest Drama: Deen The Great versus Adam Saleh,
