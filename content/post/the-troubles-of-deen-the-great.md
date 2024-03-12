@@ -16,16 +16,13 @@ THE DRAMA
 
 On March 6th things started to get a little heated with Deen The Great accusing misfits of trying to sue Slim Albaher for the mere reason of defending him which resulted to alot of reactions including Adin Ross who responded to this by saying “LOL na this is bad” . Later that day a clip surfaced from Adin Ross’ stream where he tells his fans to “go along with it” while mentioning that Deen the Great versus Adam Saleh will be a spar and the main event for his Kick card. On the same day the the CEO of Most Valuable Promotions Jake Paul chipped in by posting on X that the CEO of misfits boxing KSI had sparred popular youtuber Speed, which according to him hurt DAZN viewership. The PBA which had santioned misfits fights in the past offered to officially sanction Adin Ross boxing card on his Kick stream.
 
-
-
-
-
+![](https://pbs.twimg.com/media/GIWylDBbcAA7Nwv?format=jpg&name=small)
 While all this was happening on the 7th of the same month KSI decided he has had enough and unfollowed Deen The Great on popular social media platform Instagram.On the same day one of KSI's biggest fan who unironically is called The Fan, put out an X (formerly known as twitter) thread ‘exposing’ Deen The Great and calling him a snake.After alot of backlash from fans, Deen the Great versus Adam Saleh which was originally going to have 10 oz gloves was changed to a spar propting the use of 14 oz gloves.
 
 On March 8th Misfits sent an official lawsuit to Adin Ross which was revealed by him over a live on Instagram.He later leaked the papers sent to him by misfits boxing.
 
 ![](https://pbs.twimg.com/media/GILHnnrXUAAAyMS?format=jpg&name=small)
- After this was revealed KSI went on X and taunted Adin Ross with an image of a laughing emoji,which obviously got a response from Deen The Great. Another suprising turn of events occurred where his opponent Adam Saleh criticized him by saying 'Deen is a snake, I will show you guys real loyalty. He is being disloyal, you can't blame Misfits'.
+After this was revealed KSI went on X and taunted Adin Ross with an image of a laughing emoji,which obviously got a response from Deen The Great. Another suprising turn of events occurred where his opponent Adam Saleh criticized him by saying 'Deen is a snake, I will show you guys real loyalty. He is being disloyal, you can't blame Misfits'.
 
 On the 11th of March the back and forth between Adam Saleh and Deen The Great became more heated on social media. On this day Adam Saleh created a twitter space which brought into light the information that Deen the Great attempted to secure a multi-million dollar contract with Most Valuable Promotions while already under contract with Misfits Boxing. On the same twitter space Deen the Great revealed that December 2023 was the last time he spoke with Misfits Boxing and that he was no longer injured.During this space Deen The Great and Mams Taylor (KSI's manager) went off on each other.
 
