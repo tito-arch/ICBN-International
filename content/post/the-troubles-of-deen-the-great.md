@@ -26,6 +26,8 @@ After this was revealed KSI went on X and taunted Adin Ross with an image of a l
 
 On the 11th of March the back and forth between Adam Saleh and Deen The Great became more heated on social media. On this day Adam Saleh created a twitter space which brought into light the information that Deen the Great attempted to secure a multi-million dollar contract with Most Valuable Promotions while already under contract with Misfits Boxing. On the same twitter space Deen the Great revealed that December 2023 was the last time he spoke with Misfits Boxing and that he was no longer injured.During this space Deen The Great and Mams Taylor (KSI's manager) went off on each other.
 
-![](https://pbs.twimg.com/media/GIaNYt4agAABK9N?format=jpg&name=small)
-However in the midst of all these, some fighters and fans didnt shy away from supporting him, for instance Chase Demoor posted this in his X account in support of Deen by saying “`The entire boxing community needs to chill on Deen The Great, you can’t criminalize someone for not doing anything. He didn’t fight. to anyone who has done things to gain clout or a following you especially cannot speak, bro had a idea on how to grow his own brand & nothing more”.`[
+
+However in the midst of all these, some fighters and fans didnt shy away from supporting him, for instance Chase Demoor posted this in his X account in support of Deen by saying “`The entire boxing community needs to chill on Deen The Great, you can’t criminalize someone for not doing anything. He didn’t fight. to anyone who has done things to gain clout or a following you especially cannot speak, bro had a idea on how to grow his own brand & nothing more”.`
+
+`When it finally seemed that the match between Adam Saleh was finally off , Deen The Great announced that he will be hosting a boxing event on the 17th on his personal kick livestream.`[
 ](https://twitter.com/ChaseDeMoor/status/1767235341692584429/photo/1)
