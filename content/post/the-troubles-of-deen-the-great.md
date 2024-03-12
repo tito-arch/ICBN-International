@@ -31,6 +31,7 @@ However in the midst of all these, some fighters and fans didnt shy away from su
 
 `When it finally seemed that the match between Adam Saleh was finally off , Deen The Great announced that he will be hosting a boxing event on the 17th on his personal kick livestream.`
 
+![](https://pbs.twimg.com/media/GIAIsoabAAIX4ko?format=jpg&name=small)
 `CONCLUSION`
 
 `The relationship between Deen The Great and Misfits has definitely taken a hit due to their recent arguments on social media. You can reach us out on all our social media platforms and tell us what advise would you give Deen at the moment.`[
