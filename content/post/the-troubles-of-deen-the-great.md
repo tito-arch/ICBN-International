@@ -10,7 +10,7 @@ author: ICBN
 ---
 THE ANNOUNCEMENT
 
-On March 5th 2024 news broke of Deen The Great versus Adam Saleh on a kick livestream hosted by Adin Ross which was set to be on the 16th of the same month. It was received well by some fans while others criticized the decision from the star. Misfits however responded to this by threatening to sue Deen The Great since he was still under contract with them
+On March 5th 2024 news broke of Deen The Great versus Adam Saleh on a kick livestream hosted by Adin Ross which was set to be on the 16th of the same month. It was received well by some fans while others criticized the decision from the star. Misfits however responded to this by threatening legal action on Deen The Great since he was still under contract with them
 
 ![](https://pbs.twimg.com/media/GH7N8YmbEAAGRV4?format=jpg&name=small)
 THE DRAMA
@@ -33,6 +33,7 @@ However in the midst of all these, some fighters and fans didnt shy away from su
 `When it finally seemed that the match between Adam Saleh was finally off , Deen The Great announced that he will be hosting a boxing event on the 17th on his personal kick livestream.`
 
 ![](https://pbs.twimg.com/media/GIAIsoabAAIX4ko?format=jpg&name=small)
+
 `CONCLUSION`
 
 `The relationship between Deen The Great and Misfits has definitely taken a hit due to their recent arguments on social media. You can reach us out on all our social media platforms and tell us what advise would you give Deen at the moment.`[
