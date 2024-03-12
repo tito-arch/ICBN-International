@@ -13,6 +13,4 @@ On March 5th 2024 news broke of Deen The Great versus Adam Saleh on a kick lives
 
 THE DRAMA
 
-
-
-
+On March 6th things started to get a little heated with Deen The Great accusing misfits of trying to sue Slim Albaher for the mere reason of defending him. After a while the CEO of Most Valuable Promotions Jake Paul chipped in by arguing that the CEO of misfits boxing KSI had sparred popular youtuber Speed, which according to him hurt DAZN viewership.
