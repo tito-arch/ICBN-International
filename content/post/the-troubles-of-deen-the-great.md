@@ -19,4 +19,4 @@ While all this was happening on the 7th of the same month KSI decided he has had
 
 On March 8th Misfits sent an official lawsuit to Adin Ross which was revealed by him over a live on Instagram.He later leaked the papers sent to him by misfits boxing. After this was revealed KSI went on X and taunted Adin Ross with an image of a laughing emoji,which obviously got a response from Deen The Great. Another suprising turn of events occurred where his opponent Adam Saleh criticized him by saying 'Deen is a snake, I will show you guys real loyalty. He is being disloyal, you can't blame Misfits'.
 
-On the 11th of March the back and forth between Adam Saleh and Deen The Great became more heated on social media
+On the 11th of March the back and forth between Adam Saleh and Deen The Great became more heated on social media. On this day Adam Saleh created a twitter space which brought into light the information that Deen the Great attempted to secure a multi-million dollar contract with Most Valuable Promotions while already under contract with Misfits Boxing.
