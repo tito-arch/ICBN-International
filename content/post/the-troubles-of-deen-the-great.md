@@ -2,8 +2,8 @@
 title: The troubles of Deen The Great
 date: 2024-03-12T09:44:48.185+03:00
 draft: true
-description: This is the latest drama surrounding Deen The Great versus Adam
-  Saleh, Adin Ross and misfits boxing .
+description: "Breaking Down the Latest Drama: Deen The Great versus Adam Saleh,
+  Adin Ross, and Misfits Boxing"
 cover-photo: /uploads/deen.jpg
 category: Breaking News
 author: ICBN
