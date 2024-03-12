@@ -10,7 +10,7 @@ author: ICBN
 ---
 THE ANNOUNCEMENT
 
-On March 5th 2024 news broke of Deen The Great versus Adam Saleh on a kick livestream hosted by Adin Ross which was set to be on the 16th of the same month. It was received well by some fans while others criticized the decision from the star. Misfits however responded to this by threatening legal action on Deen The Great since he was still under contract with them
+On March 5th, 2024 news broke of Deen The Great versus Adam Saleh on a kick livestream hosted by Adin Ross which was set to be on the 16th of the same month. It was received well by some fans while others criticized the decision from the star. Misfits however responded to this by threatening legal action against Deen The Great since he was still under contract with them
 
 ![](https://pbs.twimg.com/media/GH7N8YmbEAAGRV4?format=jpg&name=small)
 THE DRAMA
